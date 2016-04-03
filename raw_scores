@@ -1,0 +1,210 @@
+C:\Users\ananthv\WinPython\A3>python predictor.py abalone.csv em pca -1 > abalone_em_scores
+C:\Users\ananthv\WinPython\A3>python predictor.py winequality-white.csv em pca -1
+num clusters =  7
+clusters = 2 silhouette score = 0.246662001731
+clusters = 2 silhouette score = 0.238688338903
+clusters = 2 silhouette score = 0.205923873534
+clusters = 2 silhouette score = 0.179804108466
+clusters = 3 silhouette score = 0.230114688777
+clusters = 3 silhouette score = 0.161867025973
+clusters = 3 silhouette score = 0.197323427591
+clusters = 3 silhouette score = 0.202976600062
+clusters = 4 silhouette score = 0.156745889168
+clusters = 4 silhouette score = 0.149882978628
+clusters = 4 silhouette score = 0.187128972521
+clusters = 4 silhouette score = 0.183030427367
+clusters = 5 silhouette score = 0.163071306905
+clusters = 5 silhouette score = 0.147861723639
+clusters = 5 silhouette score = 0.138462361221
+clusters = 5 silhouette score = 0.138785139973
+clusters = 6 silhouette score = 0.171317205269
+clusters = 6 silhouette score = 0.155832258185
+clusters = 6 silhouette score = 0.134220563424
+clusters = 6 silhouette score = 0.0971382658799
+clusters = 7 silhouette score = 0.137906193649
+clusters = 7 silhouette score = 0.154898622393
+clusters = 7 silhouette score = 0.129783856894
+clusters = 7 silhouette score = 0.110940021224
+-----------------
+Best EM score = 0.246662001731 with 2 clusters
+
+C:\Users\ananthv\WinPython\A3>
+C:\Users\ananthv\WinPython\A3>
+C:\Users\ananthv\WinPython\A3>python predictor.py winequality-white.csv kmeans pca -1
+num clusters =  7
+clusters = 2 silhouette score = 0.246178006338
+clusters = 3 silhouette score = 0.191937370356
+clusters = 4 silhouette score = 0.170885941276
+clusters = 5 silhouette score = 0.168727047568
+clusters = 6 silhouette score = 0.142889206788
+clusters = 7 silhouette score = 0.143692216241
+-----------------
+Best kmeans score = 0.246178006338 with 2 clusters
+
+C:\Users\ananthv\WinPython\A3>
+C:\Users\ananthv\WinPython\A3>python predictor.py winequality-white.csv kmeans pca -1
+num clusters =  7
+clusters = 2 silhouette score = 0.246178006338
+clusters = 3 silhouette score = 0.19192524589
+clusters = 4 silhouette score = 0.170895889138
+clusters = 5 silhouette score = 0.168617256579
+clusters = 6 silhouette score = 0.143140182637
+clusters = 7 silhouette score = 0.143442658602
+-----------------
+Best kmeans score = 0.246178006338 with 2 clusters
+
+C:\Users\ananthv\WinPython\A3>
+C:\Users\ananthv\WinPython\A3>python predictor.py winequality-white.csv kmea pca -1
+C:\Users\ananthv\WinPython\A3>python predictor.py winequality-white.cs em pca -1
+C:\Users\ananthv\WinPython\A3>
+C:\Users\ananthv\WinPython\A3>
+C:\Users\ananthv\WinPython\A3>python predictor.py abalone.csv em pca -1 > abalone_em_scores
+C:\Users\ananthv\WinPython\A3>python predictor.py abalone.csv kmeans pca -1
+num clusters =  28
+clusters = 2 silhouette score = 0.498262369051
+clusters = 3 silhouette score = 0.461748354567
+clusters = 4 silhouette score = 0.470300408074
+clusters = 5 silhouette score = 0.458037470407
+clusters = 6 silhouette score = 0.462511950816
+clusters = 7 silhouette score = 0.462647045374
+clusters = 8 silhouette score = 0.45882635944
+clusters = 9 silhouette score = 0.452414345185
+clusters = 10 silhouette score = 0.437316521035
+clusters = 11 silhouette score = 0.424046563454
+clusters = 12 silhouette score = 0.413540026294
+clusters = 13 silhouette score = 0.410011818119
+clusters = 14 silhouette score = 0.400759678829
+clusters = 15 silhouette score = 0.391265018185
+clusters = 16 silhouette score = 0.388435130343
+clusters = 17 silhouette score = 0.382955996832
+clusters = 18 silhouette score = 0.368805477273
+clusters = 19 silhouette score = 0.360451483913
+clusters = 20 silhouette score = 0.349691483591
+clusters = 21 silhouette score = 0.33833166282
+clusters = 22 silhouette score = 0.336406310865
+clusters = 23 silhouette score = 0.33395976702
+clusters = 24 silhouette score = 0.326639175369
+clusters = 25 silhouette score = 0.326359760662
+clusters = 26 silhouette score = 0.322889912386
+clusters = 27 silhouette score = 0.317249088236
+C:\Users\ananthv\WinPython\python-2.7.10.amd64\lib\site-packages\numpy\core\_methods.py:59: RuntimeWarning: Mean of empty
+  warnings.warn("Mean of empty slice.", RuntimeWarning)
+clusters = 28 silhouette score = 0.3186740123
+-----------------
+Best kmeans score = 0.498262369051 with 2 clusters
+
+C:\Users\ananthv\WinPython\A3>
+C:\Users\ananthv\WinPython\A3>python predictor.py abalone.csv em pca -1
+num clusters =  28
+clusters = 2 silhouette score = 0.498946669057
+clusters = 2 silhouette score = 0.504601021107
+clusters = 2 silhouette score = 0.372548853231
+clusters = 2 silhouette score = 0.31806054604
+clusters = 3 silhouette score = 0.462060511352
+clusters = 3 silhouette score = 0.457181071797
+clusters = 3 silhouette score = 0.228064728296
+clusters = 3 silhouette score = 0.457181071797
+clusters = 4 silhouette score = 0.468175149175
+clusters = 4 silhouette score = 0.438232117006
+clusters = 4 silhouette score = 0.170470148053
+clusters = 4 silhouette score = 0.334805050943
+clusters = 5 silhouette score = 0.451529889159
+clusters = 5 silhouette score = 0.411951872142
+clusters = 5 silhouette score = 0.127902580916
+clusters = 5 silhouette score = 0.43600652478
+clusters = 6 silhouette score = 0.461354346234
+clusters = 6 silhouette score = 0.352918962556
+clusters = 6 silhouette score = 0.144331989798
+clusters = 6 silhouette score = 0.398347250835
+clusters = 7 silhouette score = 0.459625693798
+clusters = 7 silhouette score = 0.369982923476
+clusters = 7 silhouette score = 0.0671611141882
+clusters = 7 silhouette score = 0.383218810691
+clusters = 8 silhouette score = 0.456688765765
+clusters = 8 silhouette score = 0.394446682683
+clusters = 8 silhouette score = 0.115510862955
+clusters = 8 silhouette score = 0.362230561891
+clusters = 9 silhouette score = 0.442754217386
+clusters = 9 silhouette score = 0.414872686523
+clusters = 9 silhouette score = 0.167964275225
+clusters = 9 silhouette score = 0.358915440134
+clusters = 10 silhouette score = 0.436206866148
+clusters = 10 silhouette score = 0.421955702261
+clusters = 10 silhouette score = 0.130974757314
+clusters = 10 silhouette score = 0.362545515412
+clusters = 11 silhouette score = 0.422216886863
+clusters = 11 silhouette score = 0.407320285524
+C:\Users\ananthv\WinPython\python-2.7.10.amd64\lib\site-packages\numpy\core\_methods.py:59: RuntimeWarning: Mean of empty
+  warnings.warn("Mean of empty slice.", RuntimeWarning)
+clusters = 11 silhouette score = 0.20284080273
+clusters = 11 silhouette score = 0.369409909488
+clusters = 12 silhouette score = 0.412309357293
+clusters = 12 silhouette score = 0.399567994154
+clusters = 12 silhouette score = 0.179550265105
+clusters = 12 silhouette score = 0.384901963866
+clusters = 13 silhouette score = 0.409246611592
+clusters = 13 silhouette score = 0.391045253473
+clusters = 13 silhouette score = 0.177591288793
+clusters = 13 silhouette score = 0.378476922337
+clusters = 14 silhouette score = 0.402049932023
+clusters = 14 silhouette score = 0.382933180577
+clusters = 14 silhouette score = 0.264105039017
+clusters = 14 silhouette score = 0.3546155453
+clusters = 15 silhouette score = 0.392846506079
+clusters = 15 silhouette score = 0.377512406607
+clusters = 15 silhouette score = 0.252631566762
+clusters = 15 silhouette score = 0.272486837477
+clusters = 16 silhouette score = 0.38814727223
+clusters = 16 silhouette score = 0.382562975089
+clusters = 16 silhouette score = 0.177014614551
+clusters = 16 silhouette score = 0.296170928626
+clusters = 17 silhouette score = 0.383295419192
+clusters = 17 silhouette score = 0.37940236129
+clusters = 17 silhouette score = 0.31436151787
+clusters = 17 silhouette score = 0.321856711174
+clusters = 18 silhouette score = 0.369428132154
+clusters = 18 silhouette score = 0.346838193852
+clusters = 18 silhouette score = 0.320159055954
+clusters = 18 silhouette score = 0.359265513013
+clusters = 19 silhouette score = 0.363939928025
+clusters = 19 silhouette score = 0.3293930353
+clusters = 19 silhouette score = 0.297749752642
+clusters = 19 silhouette score = 0.293901688469
+clusters = 20 silhouette score = 0.349309108179
+clusters = 20 silhouette score = 0.342501345897
+clusters = 20 silhouette score = 0.323607452688
+clusters = 20 silhouette score = 0.327302344781
+clusters = 21 silhouette score = 0.340495331029
+clusters = 21 silhouette score = 0.310626982425
+clusters = 21 silhouette score = 0.304652908196
+clusters = 21 silhouette score = 0.345988581455
+clusters = 22 silhouette score = 0.336658366881
+clusters = 22 silhouette score = 0.340887815625
+clusters = 22 silhouette score = 0.318527160252
+clusters = 22 silhouette score = 0.317310514577
+clusters = 23 silhouette score = 0.32327376172
+clusters = 23 silhouette score = 0.316309392384
+clusters = 23 silhouette score = 0.301996585491
+clusters = 23 silhouette score = 0.328519607588
+clusters = 24 silhouette score = 0.319211168306
+clusters = 24 silhouette score = 0.284706338689
+clusters = 24 silhouette score = 0.299317053933
+clusters = 24 silhouette score = 0.329644541628
+clusters = 25 silhouette score = 0.312983198317
+clusters = 25 silhouette score = 0.275308179915
+clusters = 25 silhouette score = 0.3147214295
+clusters = 25 silhouette score = 0.297991789089
+clusters = 26 silhouette score = 0.326551965148
+clusters = 26 silhouette score = 0.268594077868
+clusters = 26 silhouette score = 0.303469633599
+clusters = 26 silhouette score = 0.337109498867
+clusters = 27 silhouette score = 0.312742313339
+clusters = 27 silhouette score = 0.266817119325
+clusters = 27 silhouette score = 0.291523063316
+clusters = 27 silhouette score = 0.338360263049
+clusters = 28 silhouette score = 0.322578675191
+clusters = 28 silhouette score = 0.261235748243
+clusters = 28 silhouette score = 0.290232439819
+clusters = 28 silhouette score = 0.271579779576
+-----------------
+Best EM score = 0.504601021107 with 2 clusters
