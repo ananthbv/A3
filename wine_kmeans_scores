@@ -1,0 +1,499 @@
+num clusters =  7
+running kmeans after PCA with 1 components
+clusters = 2 silhouette score = 0.603560279921
+clusters = 3 silhouette score = 0.578270239077
+clusters = 4 silhouette score = 0.553772303879
+clusters = 5 silhouette score = 0.538529200925
+clusters = 6 silhouette score = 0.538919717283
+clusters = 7 silhouette score = 0.531355019318
+-----------------
+average kmeans score after X modified with PCA 1 components, clusters = 2 silhouette score = 0.603560279921
+running kmeans after PCA with 2 components
+clusters = 2 silhouette score = 0.428150786158
+clusters = 3 silhouette score = 0.388193041553
+clusters = 4 silhouette score = 0.381878031212
+clusters = 5 silhouette score = 0.35448317962
+clusters = 6 silhouette score = 0.337784625885
+clusters = 7 silhouette score = 0.330711310665
+-----------------
+average kmeans score after X modified with PCA 2 components, clusters = 2 silhouette score = 0.428150786158
+running kmeans after PCA with 3 components
+clusters = 2 silhouette score = 0.353615139806
+clusters = 3 silhouette score = 0.307280884397
+clusters = 4 silhouette score = 0.279562942577
+clusters = 5 silhouette score = 0.284553418164
+clusters = 6 silhouette score = 0.273891867127
+clusters = 7 silhouette score = 0.252837062842
+-----------------
+average kmeans score after X modified with PCA 3 components, clusters = 2 silhouette score = 0.353615139806
+running kmeans after PCA with 4 components
+clusters = 2 silhouette score = 0.316681515408
+clusters = 3 silhouette score = 0.265965361275
+clusters = 4 silhouette score = 0.244545939817
+clusters = 5 silhouette score = 0.246273987083
+clusters = 6 silhouette score = 0.230278219393
+clusters = 7 silhouette score = 0.206131059139
+-----------------
+average kmeans score after X modified with PCA 4 components, clusters = 2 silhouette score = 0.316681515408
+running kmeans after PCA with 5 components
+clusters = 2 silhouette score = 0.291639120538
+clusters = 3 silhouette score = 0.239277707108
+clusters = 4 silhouette score = 0.217374421388
+clusters = 5 silhouette score = 0.219807547176
+clusters = 6 silhouette score = 0.180686906673
+clusters = 7 silhouette score = 0.186753037515
+-----------------
+average kmeans score after X modified with PCA 5 components, clusters = 2 silhouette score = 0.291639120538
+running kmeans after PCA with 6 components
+clusters = 2 silhouette score = 0.276685868121
+clusters = 3 silhouette score = 0.224241062043
+clusters = 4 silhouette score = 0.201699439284
+clusters = 5 silhouette score = 0.201433437549
+clusters = 6 silhouette score = 0.165583352513
+clusters = 7 silhouette score = 0.170390723484
+-----------------
+average kmeans score after X modified with PCA 6 components, clusters = 2 silhouette score = 0.276685868121
+running kmeans after PCA with 7 components
+clusters = 2 silhouette score = 0.264138544348
+clusters = 3 silhouette score = 0.210671327628
+clusters = 4 silhouette score = 0.188580826509
+clusters = 5 silhouette score = 0.189260197137
+clusters = 6 silhouette score = 0.155738573813
+clusters = 7 silhouette score = 0.158398414788
+-----------------
+average kmeans score after X modified with PCA 7 components, clusters = 2 silhouette score = 0.264138544348
+running kmeans after PCA with 8 components
+clusters = 2 silhouette score = 0.255458432925
+clusters = 3 silhouette score = 0.201378614119
+clusters = 4 silhouette score = 0.180975119134
+clusters = 5 silhouette score = 0.178803171073
+clusters = 6 silhouette score = 0.151057909787
+clusters = 7 silhouette score = 0.151608346757
+-----------------
+average kmeans score after X modified with PCA 8 components, clusters = 2 silhouette score = 0.255458432925
+running kmeans after PCA with 9 components
+clusters = 2 silhouette score = 0.249648076988
+clusters = 3 silhouette score = 0.195033544124
+clusters = 4 silhouette score = 0.17449649853
+clusters = 5 silhouette score = 0.172835609027
+clusters = 6 silhouette score = 0.148268437663
+clusters = 7 silhouette score = 0.146802650501
+-----------------
+average kmeans score after X modified with PCA 9 components, clusters = 2 silhouette score = 0.249648076988
+running kmeans after PCA with 10 components
+clusters = 2 silhouette score = 0.246312164221
+clusters = 3 silhouette score = 0.192057924529
+clusters = 4 silhouette score = 0.171041152006
+clusters = 5 silhouette score = 0.168855000497
+clusters = 6 silhouette score = 0.144274817186
+clusters = 7 silhouette score = 0.143602459397
+-----------------
+average kmeans score after X modified with PCA 10 components, clusters = 2 silhouette score = 0.246312164221
+running kmeans after PCA with 11 components
+clusters = 2 silhouette score = 0.246201886235
+clusters = 3 silhouette score = 0.191925245891
+clusters = 4 silhouette score = 0.17089588914
+clusters = 5 silhouette score = 0.168567732098
+clusters = 6 silhouette score = 0.143104010899
+clusters = 7 silhouette score = 0.143281433367
+-----------------
+average kmeans score after X modified with PCA 11 components, clusters = 2 silhouette score = 0.246201886235
+==============================================
+running kmeans after ICA with 1 components
+clusters = 2 silhouette score = 0.603548838699
+clusters = 3 silhouette score = 0.578270239077
+clusters = 4 silhouette score = 0.553760923882
+clusters = 5 silhouette score = 0.538575533701
+clusters = 6 silhouette score = 0.538776976218
+clusters = 7 silhouette score = 0.528483181325
+-----------------
+average kmeans score after X modified with ICA 1 components, clusters = 2 silhouette score = 0.603548838699
+running kmeans after ICA with 2 components
+clusters = 2 silhouette score = 0.36322437038
+clusters = 3 silhouette score = 0.392479343919
+clusters = 4 silhouette score = 0.377663807096
+clusters = 5 silhouette score = 0.324829392611
+clusters = 6 silhouette score = 0.347022920612
+clusters = 7 silhouette score = 0.343074559299
+-----------------
+average kmeans score after X modified with ICA 2 components, clusters = 3 silhouette score = 0.392479343919
+running kmeans after ICA with 3 components
+clusters = 2 silhouette score = 0.261153481599
+clusters = 3 silhouette score = 0.271120436645
+clusters = 4 silhouette score = 0.283130368408
+clusters = 5 silhouette score = 0.243165537574
+clusters = 6 silhouette score = 0.243867142428
+clusters = 7 silhouette score = 0.251089553356
+-----------------
+average kmeans score after X modified with ICA 3 components, clusters = 4 silhouette score = 0.283130368408
+running kmeans after ICA with 4 components
+clusters = 2 silhouette score = 0.203005272147
+clusters = 3 silhouette score = 0.210631586399
+clusters = 4 silhouette score = 0.216735569783
+clusters = 5 silhouette score = 0.208738829577
+clusters = 6 silhouette score = 0.199086761174
+clusters = 7 silhouette score = 0.193791876668
+-----------------
+average kmeans score after X modified with ICA 4 components, clusters = 4 silhouette score = 0.216735569783
+running kmeans after ICA with 5 components
+clusters = 2 silhouette score = 0.163294936942
+clusters = 3 silhouette score = 0.167991665607
+clusters = 4 silhouette score = 0.177606594373
+clusters = 5 silhouette score = 0.184336912182
+clusters = 6 silhouette score = 0.183187761532
+clusters = 7 silhouette score = 0.165580249361
+-----------------
+average kmeans score after X modified with ICA 5 components, clusters = 5 silhouette score = 0.184336912182
+running kmeans after ICA with 6 components
+clusters = 2 silhouette score = 0.136534118598
+clusters = 3 silhouette score = 0.144529965889
+clusters = 4 silhouette score = 0.150480543835
+clusters = 5 silhouette score = 0.159251127989
+clusters = 6 silhouette score = 0.165959841868
+clusters = 7 silhouette score = 0.157412919246
+-----------------
+average kmeans score after X modified with ICA 6 components, clusters = 6 silhouette score = 0.165959841868
+running kmeans after ICA with 7 components
+clusters = 2 silhouette score = 0.11430114466
+clusters = 3 silhouette score = 0.128837668122
+clusters = 4 silhouette score = 0.135971587366
+clusters = 5 silhouette score = 0.137893436767
+clusters = 6 silhouette score = 0.140819715458
+clusters = 7 silhouette score = 0.139846588908
+-----------------
+average kmeans score after X modified with ICA 7 components, clusters = 6 silhouette score = 0.140819715458
+running kmeans after ICA with 8 components
+clusters = 2 silhouette score = 0.102848209823
+clusters = 3 silhouette score = 0.115897699702
+clusters = 4 silhouette score = 0.120236879827
+clusters = 5 silhouette score = 0.12247295261
+clusters = 6 silhouette score = 0.125296076982
+clusters = 7 silhouette score = 0.128578688257
+-----------------
+average kmeans score after X modified with ICA 8 components, clusters = 7 silhouette score = 0.128578688257
+running kmeans after ICA with 9 components
+clusters = 2 silhouette score = 0.0966508467168
+clusters = 3 silhouette score = 0.11008391788
+clusters = 4 silhouette score = 0.114784947979
+clusters = 5 silhouette score = 0.119403095231
+clusters = 6 silhouette score = 0.12456963131
+clusters = 7 silhouette score = 0.12964011787
+-----------------
+average kmeans score after X modified with ICA 9 components, clusters = 7 silhouette score = 0.12964011787
+running kmeans after ICA with 10 components
+clusters = 2 silhouette score = 0.0870004045521
+clusters = 3 silhouette score = 0.101172063206
+clusters = 4 silhouette score = 0.101933434755
+clusters = 5 silhouette score = 0.106391367779
+clusters = 6 silhouette score = 0.108312942946
+clusters = 7 silhouette score = 0.112300734989
+-----------------
+average kmeans score after X modified with ICA 10 components, clusters = 7 silhouette score = 0.112300734989
+running kmeans after ICA with 11 components
+clusters = 2 silhouette score = 0.083101455144
+clusters = 3 silhouette score = 0.0936193157257
+clusters = 4 silhouette score = 0.0955577565769
+clusters = 5 silhouette score = 0.100967414708
+clusters = 6 silhouette score = 0.101189471205
+clusters = 7 silhouette score = 0.105742050153
+-----------------
+average kmeans score after X modified with ICA 11 components, clusters = 7 silhouette score = 0.105742050153
+==============================================
+running kmeans after RP with 1 components
+clusters = 2 silhouette score = 0.575272880939
+clusters = 3 silhouette score = 0.522991203636
+clusters = 4 silhouette score = 0.528863386712
+clusters = 5 silhouette score = 0.520895383876
+clusters = 6 silhouette score = 0.529503539378
+clusters = 7 silhouette score = 0.528362721967
+-----------------
+average kmeans  score after X modified with Random Projection 1 components, clusters = 2 silhouette score = 0.575272880939
+running kmeans after RP with 2 components
+clusters = 2 silhouette score = 0.450442361846
+clusters = 3 silhouette score = 0.370611968353
+clusters = 4 silhouette score = 0.330374679506
+clusters = 5 silhouette score = 0.329818623559
+clusters = 6 silhouette score = 0.323448150505
+clusters = 7 silhouette score = 0.330842581708
+-----------------
+average kmeans  score after X modified with Random Projection 2 components, clusters = 2 silhouette score = 0.450442361846
+running kmeans after RP with 3 components
+clusters = 2 silhouette score = 0.322836738409
+clusters = 3 silhouette score = 0.320678741205
+clusters = 4 silhouette score = 0.315659241412
+clusters = 5 silhouette score = 0.293783480387
+clusters = 6 silhouette score = 0.280946185295
+clusters = 7 silhouette score = 0.274650845453
+-----------------
+average kmeans  score after X modified with Random Projection 3 components, clusters = 2 silhouette score = 0.322836738409
+running kmeans after RP with 4 components
+clusters = 2 silhouette score = 0.339352969113
+clusters = 3 silhouette score = 0.224404835119
+clusters = 4 silhouette score = 0.23058004232
+clusters = 5 silhouette score = 0.220063678106
+clusters = 6 silhouette score = 0.216797175106
+clusters = 7 silhouette score = 0.207158270908
+-----------------
+average kmeans  score after X modified with Random Projection 4 components, clusters = 2 silhouette score = 0.339352969113
+running kmeans after RP with 5 components
+clusters = 2 silhouette score = 0.313174098669
+clusters = 3 silhouette score = 0.229988272253
+clusters = 4 silhouette score = 0.244359725095
+clusters = 5 silhouette score = 0.210698917772
+clusters = 6 silhouette score = 0.212661857839
+clusters = 7 silhouette score = 0.204502001226
+-----------------
+average kmeans  score after X modified with Random Projection 5 components, clusters = 2 silhouette score = 0.313174098669
+running kmeans after RP with 6 components
+clusters = 2 silhouette score = 0.287139138022
+clusters = 3 silhouette score = 0.240788727123
+clusters = 4 silhouette score = 0.217972135582
+clusters = 5 silhouette score = 0.205891157455
+clusters = 6 silhouette score = 0.187242492087
+clusters = 7 silhouette score = 0.184920092647
+-----------------
+average kmeans  score after X modified with Random Projection 6 components, clusters = 2 silhouette score = 0.287139138022
+running kmeans after RP with 7 components
+clusters = 2 silhouette score = 0.359080189092
+clusters = 3 silhouette score = 0.319104035001
+clusters = 4 silhouette score = 0.258952434651
+clusters = 5 silhouette score = 0.246129774894
+clusters = 6 silhouette score = 0.243683181693
+clusters = 7 silhouette score = 0.214155300388
+-----------------
+average kmeans  score after X modified with Random Projection 7 components, clusters = 2 silhouette score = 0.359080189092
+running kmeans after RP with 8 components
+clusters = 2 silhouette score = 0.269483373566
+clusters = 3 silhouette score = 0.234772003859
+clusters = 4 silhouette score = 0.203812146009
+clusters = 5 silhouette score = 0.187565087326
+clusters = 6 silhouette score = 0.17582591943
+clusters = 7 silhouette score = 0.172339696336
+-----------------
+average kmeans  score after X modified with Random Projection 8 components, clusters = 2 silhouette score = 0.269483373566
+running kmeans after RP with 9 components
+clusters = 2 silhouette score = 0.232085209108
+clusters = 3 silhouette score = 0.202995318461
+clusters = 4 silhouette score = 0.185092385147
+clusters = 5 silhouette score = 0.168922703135
+clusters = 6 silhouette score = 0.165378668285
+clusters = 7 silhouette score = 0.160600335028
+-----------------
+average kmeans  score after X modified with Random Projection 9 components, clusters = 2 silhouette score = 0.232085209108
+running kmeans after RP with 10 components
+clusters = 2 silhouette score = 0.330907191506
+clusters = 3 silhouette score = 0.226528975011
+clusters = 4 silhouette score = 0.183575270252
+clusters = 5 silhouette score = 0.185190022982
+clusters = 6 silhouette score = 0.164292830599
+clusters = 7 silhouette score = 0.161687885742
+-----------------
+average kmeans  score after X modified with Random Projection 10 components, clusters = 2 silhouette score = 0.330907191506
+running kmeans after RP with 11 components
+clusters = 2 silhouette score = 0.347783748741
+clusters = 3 silhouette score = 0.230279412712
+clusters = 4 silhouette score = 0.216726024352
+clusters = 5 silhouette score = 0.186532011952
+clusters = 6 silhouette score = 0.191361556595
+clusters = 7 silhouette score = 0.180505720649
+-----------------
+average kmeans  score after X modified with Random Projection 11 components, clusters = 2 silhouette score = 0.347783748741
+==============================================
+running kmeans after LDA with 1 components
+clusters = 2 silhouette score = 0.575939437651
+clusters = 3 silhouette score = 0.528606386516
+clusters = 4 silhouette score = 0.528894521206
+clusters = 5 silhouette score = 0.527588179994
+clusters = 6 silhouette score = 0.531175628222
+clusters = 7 silhouette score = 0.531002883967
+-----------------
+average kmeans score after X modified with LDA 1 components, clusters = 2 silhouette score = 0.575939437651
+running kmeans after LDA with 1 components
+clusters = 2 silhouette score = 0.575979926314
+clusters = 3 silhouette score = 0.528491654769
+clusters = 4 silhouette score = 0.528365938968
+clusters = 5 silhouette score = 0.527562527591
+clusters = 6 silhouette score = 0.531175628222
+clusters = 7 silhouette score = 0.53097951471
+-----------------
+average kmeans score after X modified with LDA 1 components, clusters = 2 silhouette score = 0.575979926314
+running kmeans after LDA with 2 components
+clusters = 2 silhouette score = 0.380264407499
+clusters = 3 silhouette score = 0.392105986292
+clusters = 4 silhouette score = 0.331364896122
+clusters = 5 silhouette score = 0.332274278594
+clusters = 6 silhouette score = 0.348593566476
+clusters = 7 silhouette score = 0.350123031092
+-----------------
+average kmeans score after X modified with LDA 2 components, clusters = 3 silhouette score = 0.392105986292
+running kmeans after LDA with 2 components
+clusters = 2 silhouette score = 0.361859243164
+clusters = 3 silhouette score = 0.387278511555
+clusters = 4 silhouette score = 0.36434831247
+clusters = 5 silhouette score = 0.362982512872
+clusters = 6 silhouette score = 0.326660142083
+clusters = 7 silhouette score = 0.324124004256
+-----------------
+average kmeans score after X modified with LDA 2 components, clusters = 3 silhouette score = 0.387278511555
+running kmeans after LDA with 3 components
+clusters = 2 silhouette score = 0.278628485422
+clusters = 3 silhouette score = 0.28087061473
+clusters = 4 silhouette score = 0.271982707628
+clusters = 5 silhouette score = 0.251347513084
+clusters = 6 silhouette score = 0.234839137692
+clusters = 7 silhouette score = 0.237198094361
+-----------------
+average kmeans score after X modified with LDA 3 components, clusters = 3 silhouette score = 0.28087061473
+running kmeans after LDA with 3 components
+clusters = 2 silhouette score = 0.32212290641
+clusters = 3 silhouette score = 0.336747797811
+clusters = 4 silhouette score = 0.307253928211
+clusters = 5 silhouette score = 0.301076064885
+clusters = 6 silhouette score = 0.261045913835
+clusters = 7 silhouette score = 0.249004387963
+-----------------
+average kmeans score after X modified with LDA 3 components, clusters = 3 silhouette score = 0.336747797811
+running kmeans after LDA with 4 components
+clusters = 2 silhouette score = 0.220962585915
+clusters = 3 silhouette score = 0.220168408705
+clusters = 4 silhouette score = 0.217640833403
+clusters = 5 silhouette score = 0.213993405644
+clusters = 6 silhouette score = 0.200068972132
+clusters = 7 silhouette score = 0.195438893304
+-----------------
+average kmeans score after X modified with LDA 4 components, clusters = 2 silhouette score = 0.220962585915
+running kmeans after LDA with 4 components
+clusters = 2 silhouette score = 0.307514296969
+clusters = 3 silhouette score = 0.318893072348
+clusters = 4 silhouette score = 0.288317571567
+clusters = 5 silhouette score = 0.279409484081
+clusters = 6 silhouette score = 0.238421546598
+clusters = 7 silhouette score = 0.226186813601
+-----------------
+average kmeans score after X modified with LDA 4 components, clusters = 3 silhouette score = 0.318893072348
+running kmeans after LDA with 5 components
+clusters = 2 silhouette score = 0.186319391623
+clusters = 3 silhouette score = 0.179218087983
+clusters = 4 silhouette score = 0.192407269082
+clusters = 5 silhouette score = 0.184771090103
+clusters = 6 silhouette score = 0.186054280138
+clusters = 7 silhouette score = 0.184784269584
+-----------------
+average kmeans score after X modified with LDA 5 components, clusters = 4 silhouette score = 0.192407269082
+running kmeans after LDA with 5 components
+clusters = 2 silhouette score = 0.297302435133
+clusters = 3 silhouette score = 0.306287522703
+clusters = 4 silhouette score = 0.275328179118
+clusters = 5 silhouette score = 0.265131752716
+clusters = 6 silhouette score = 0.223861718243
+clusters = 7 silhouette score = 0.211896991663
+-----------------
+average kmeans score after X modified with LDA 5 components, clusters = 3 silhouette score = 0.306287522703
+running kmeans after LDA with 6 components
+clusters = 2 silhouette score = 0.158229948785
+clusters = 3 silhouette score = 0.151318610126
+clusters = 4 silhouette score = 0.15988963335
+clusters = 5 silhouette score = 0.152690028342
+clusters = 6 silhouette score = 0.150152239519
+clusters = 7 silhouette score = 0.150904838222
+-----------------
+average kmeans score after X modified with LDA 6 components, clusters = 4 silhouette score = 0.15988963335
+running kmeans after LDA with 6 components
+clusters = 2 silhouette score = 0.232248718058
+clusters = 3 silhouette score = 0.230111097759
+clusters = 4 silhouette score = 0.215365557571
+clusters = 5 silhouette score = 0.191791237119
+clusters = 6 silhouette score = 0.197256164433
+clusters = 7 silhouette score = 0.194108557844
+-----------------
+average kmeans score after X modified with LDA 6 components, clusters = 2 silhouette score = 0.232248718058
+running kmeans after LDA with 7 components
+clusters = 2 silhouette score = 0.158205758941
+clusters = 3 silhouette score = 0.151645029401
+clusters = 4 silhouette score = 0.159793859289
+clusters = 5 silhouette score = 0.152699326534
+clusters = 6 silhouette score = 0.150147896026
+clusters = 7 silhouette score = 0.151307579794
+-----------------
+average kmeans score after X modified with LDA 7 components, clusters = 4 silhouette score = 0.159793859289
+running kmeans after LDA with 7 components
+clusters = 2 silhouette score = 0.226431215093
+clusters = 3 silhouette score = 0.222359834002
+clusters = 4 silhouette score = 0.209367018631
+clusters = 5 silhouette score = 0.184171286326
+clusters = 6 silhouette score = 0.188911842255
+clusters = 7 silhouette score = 0.184696376785
+-----------------
+average kmeans score after X modified with LDA 7 components, clusters = 2 silhouette score = 0.226431215093
+running kmeans after LDA with 8 components
+clusters = 2 silhouette score = 0.158196225952
+clusters = 3 silhouette score = 0.151067142094
+clusters = 4 silhouette score = 0.159831193382
+clusters = 5 silhouette score = 0.152658621606
+clusters = 6 silhouette score = 0.149983552582
+clusters = 7 silhouette score = 0.151210705901
+-----------------
+average kmeans score after X modified with LDA 8 components, clusters = 4 silhouette score = 0.159831193382
+running kmeans after LDA with 8 components
+clusters = 2 silhouette score = 0.226843902062
+clusters = 3 silhouette score = 0.180647705396
+clusters = 4 silhouette score = 0.182971761584
+clusters = 5 silhouette score = 0.175307927901
+clusters = 6 silhouette score = 0.168716177475
+clusters = 7 silhouette score = 0.162936670977
+-----------------
+average kmeans score after X modified with LDA 8 components, clusters = 2 silhouette score = 0.226843902062
+running kmeans after LDA with 9 components
+clusters = 2 silhouette score = 0.158265952001
+clusters = 3 silhouette score = 0.151316872179
+clusters = 4 silhouette score = 0.159917402005
+clusters = 5 silhouette score = 0.152690028342
+clusters = 6 silhouette score = 0.149949648203
+clusters = 7 silhouette score = 0.151465870844
+-----------------
+average kmeans score after X modified with LDA 9 components, clusters = 4 silhouette score = 0.159917402005
+running kmeans after LDA with 9 components
+clusters = 2 silhouette score = 0.196236631359
+clusters = 3 silhouette score = 0.14483519629
+clusters = 4 silhouette score = 0.145216601573
+clusters = 5 silhouette score = 0.155781197373
+clusters = 6 silhouette score = 0.154069810136
+clusters = 7 silhouette score = 0.152399660583
+-----------------
+average kmeans score after X modified with LDA 9 components, clusters = 2 silhouette score = 0.196236631359
+running kmeans after LDA with 10 components
+clusters = 2 silhouette score = 0.158187970414
+clusters = 3 silhouette score = 0.151092370543
+clusters = 4 silhouette score = 0.159793859289
+clusters = 5 silhouette score = 0.152762185506
+clusters = 6 silhouette score = 0.15003771881
+clusters = 7 silhouette score = 0.151506854866
+-----------------
+average kmeans score after X modified with LDA 10 components, clusters = 4 silhouette score = 0.159793859289
+running kmeans after LDA with 10 components
+clusters = 2 silhouette score = 0.160982973232
+clusters = 3 silhouette score = 0.128393072289
+clusters = 4 silhouette score = 0.131601841178
+clusters = 5 silhouette score = 0.14336389618
+clusters = 6 silhouette score = 0.127192022347
+clusters = 7 silhouette score = 0.136190667216
+-----------------
+average kmeans score after X modified with LDA 10 components, clusters = 2 silhouette score = 0.160982973232
+running kmeans after LDA with 11 components
+clusters = 2 silhouette score = 0.15819238934
+clusters = 3 silhouette score = 0.151067142094
+clusters = 4 silhouette score = 0.15988963335
+clusters = 5 silhouette score = 0.152658621606
+clusters = 6 silhouette score = 0.150087693053
+clusters = 7 silhouette score = 0.150892827359
+-----------------
+average kmeans score after X modified with LDA 11 components, clusters = 4 silhouette score = 0.15988963335
+running kmeans after LDA with 11 components
+clusters = 2 silhouette score = 0.155730520383
+clusters = 3 silhouette score = 0.121036809665
+clusters = 4 silhouette score = 0.12261759797
+clusters = 5 silhouette score = 0.133057369089
+clusters = 6 silhouette score = 0.11723421434
+clusters = 7 silhouette score = 0.126763533656
+-----------------
+average kmeans score after X modified with LDA 11 components, clusters = 2 silhouette score = 0.155730520383
