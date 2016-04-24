@@ -117,3 +117,31 @@ Iterations,500,1000,1500,2000,2500,3000,3500,4000,4500,5000,5500,6000,6500,7000,
 Value Iteration Rewards,43.0,39.0,38.0,33.0,33.0,45.0,45.0,45.0,43.0,37.0,29.0,30.0,33.0,31.0,47.0,26.0,38.0,45.0,50.0,45.0
 Policy Iteration Rewards,23.0,45.0,47.0,36.0,40.0,35.0,34.0,39.0,46.0,39.0,28.0,30.0,43.0,47.0,31.0,36.0,33.0,43.0,42.0,50.0
 Q Learning Rewards,-49.0,-107.0,-46.0,-83.0,-219.0,-6.0,-197.0,-31.0,-30.0,-96.0,-4.0,-68.0,-28.0,-6.0,3.0,-63.0,-17.0,20.0,-166.0,-15.0
+
+
+
+
+
+-------------------------
+
+QLearning with GreedyQ
+The data below shows the number of steps/actions the agent required to reach 
+the terminal state given the number of iterations the algorithm was run.
+Iterations,500,1000,1500,2000,2500,3000,3500,4000,4500,5000,5500,6000,6500,7000,7500,8000,8500,9000,9500,10000
+Value Iteration,
+Policy Iteration,
+Q Learning,109,83,108,111,76,75,92,95,81,57,72,103,109,67,82,82,79,89,77,92
+
+The data below shows the number of milliseconds the algorithm required to generate 
+the optimal policy given the number of iterations the algorithm was run.
+Iterations,500,1000,1500,2000,2500,3000,3500,4000,4500,5000,5500,6000,6500,7000,7500,8000,8500,9000,9500,10000
+Value Iteration,
+Policy Iteration,
+Q Learning,575,481,725,749,878,882,1102,1170,1314,1375,1516,1803,1989,1800,1856,-1901,-1841,-1945,-1471,-1712
+
+The data below shows the total reward gained for 
+the optimal policy given the number of iterations the algorithm was run.
+Iterations,500,1000,1500,2000,2500,3000,3500,4000,4500,5000,5500,6000,6500,7000,7500,8000,8500,9000,9500,10000
+Value Iteration Rewards,
+Policy Iteration Rewards,
+Q Learning Rewards,-7.0,19.0,-6.0,-9.0,26.0,27.0,10.0,7.0,21.0,45.0,30.0,-1.0,-7.0,35.0,20.0,20.0,23.0,13.0,25.0,10.0
