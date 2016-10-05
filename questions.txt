@@ -1,0 +1,8 @@
+In the context of admitting students into an online program such as OMSCS:
+What are the factors that the university wants in their student body? Is it more than earning a degree? 
+If online content is shared among universities, what might universities do in terms of admission selection that could differentiate them from each other? How do they build their unique reputation and rank?
+Compare and contrast admission into and resultant degree from a university like GaTech OMSCS and a professional program with different admission criteria (but perhaps same content) like Udacity nano degree? 
+What latent variables would you likely need to have as an an indirect proxy to use in a machine learning algorithm at the time of admission? For example, amount of money donated to the university after graduation. How accurate might a supervised learning algorithm be if this longitudinal data is not present and only prior admission acceptance data was available?
+How accurate / successful are existing online admission matching such as OMSCS? How would you measure this?
+ 
+Choose at least two of the questions above for your assignment. Be sure to include citations to support your claims.
