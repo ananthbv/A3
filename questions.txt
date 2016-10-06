@@ -6,3 +6,83 @@ What latent variables would you likely need to have as an an indirect proxy to u
 How accurate / successful are existing online admission matching such as OMSCS? How would you measure this?
  
 Choose at least two of the questions above for your assignment. Be sure to include citations to support your claims.
+
+
+
+In the context of admitting students into an online program such as OMSCS:
+
+What are the factors that the university wants in their student body? Is it more than earning a degree?
+
+If online content is shared among universities, what might universities do in
+terms of admission selection that could differentiate them from each other?
+How do they build their unique reputation and rank?
+In a way, this is already happening with regular (non-online) courses in different universities.
+Ex: For a given subject, say Computer Science, several universities may follow the text book 'The Art of Computer Programming' by Donald Knuth.
+Let us also assume that, in this example, the universities have a ranking ranging from 1-50. Even though they share the same content, the universities that would be preferred by the students would be the top ranked ones. What is the difference between the top ranked universities and the lower ranked ones? Answer: Reputation.
+How do the universities build their own identity and a reputation to stand out from the crowd?
+1. Attract the best faculty, which will lead to:
+   a. Better course content
+   b. Better tests, exams and projects
+   c. Better research publications
+2. Select the best applicants (students)
+3. Build a reputation
+
+Once the reputation is built, the best faculty is attracted, which leads to the best students in the university and the cycle continues.
+
+In case of shared online content, the step of hiring the faculty and creation of course content is already done. So the universities must rely on the remaining steps to build their own reputation, i.e.,
+1. Create better tests, exams and projects for the students to work on
+2. Research publications
+
+Out of the above, research publications is a difficult category to build a reputation on, since the students and faculty are not in the same physical location. But it has been done before.
+
+
+
+
+
+
+Citations:
+http://www.campusexplorer.com/college-advice-tips/886F7520/How-Does-A-College-Get-Its-Reputation/
+
+
+
+
+
+
+
+
+Compare and contrast admission into and resultant degree from a university like GaTech OMSCS and a professional program with different admission criteria (but perhaps same content) like Udacity nano degree?
+GaTech OMSCS has an elaborate application process similar to on-campus
+masters, the only difference being non-requirement of GRE scores. In contrast,
+ programs like Udacity nano degree is open to all who can afford to take it.
+
+Duration: OMSCS: 2-3 years on average, Nano: 1 year
+Cost: OMSCS: 6600 if done in 6 semesters. Nano: ~1200
+
+At the end of OMSCS, the student receives a Master's degree, just like the on-capmus where as nano degree students receive a certification.
+
+From the looks of it, the nano degree appears to be more than the certifications like Microsoft and Sun certifications and more like a code-camp. Students are taught enough to have a practical knowledge of the subject matter and to start working in a job in that area.
+
+This is not to say that nano degrees are not useful. With their concentration on teaching practical knowledge, they can complement the theoretical knowledge acquired as part of the degree. This is similar to teaching an automobile engineer how to service and repair a car. An automobile engineer may know exactly how an engine works but may not have the practical knowledge of repairing his/her car when it braks down.
+
+Citations:
+http://www.infoworld.com/article/2944070/certifications/udacitys-half-off-deal-for-online-certifications-bonus-or-bust.html
+https://campustechnology.com/articles/2015/08/05/how-nanodegrees-are-disrupting-higher-education.aspx
+
+
+
+
+What latent variables would you likely need to have as an an indirect proxy to use in a machine learning algorithm at the time of admission? For example, amount of money donated to the university after graduation. How accurate might a supervised learning algorithm be if this longitudinal data is not present and only prior admission acceptance data was available?
+I have thought about this question several times and agree this is a problem that possibly can not be solved in an automated solution. Some of the other variables that I thought could disrupt the supervised learning algorithm:
+1. The Statement of Purpose - A compelling SoP may sway the reviewer. On the other hand, if the SoP is written really badly with several spelling and grammatical mistakes, it may sway the reviewer towards rejecting the applicant. Unless we go for Natural Language/AI technique of reviewing the SoP, this can not be automated.
+2. Student Sponsors - The applicant may be sponsored fully by his company/organisation. This would ensure that GaTech would get the fees in full every time and need not worry about delays. Such an applicant would probably get admitted even with slightly lesser credentials.
+3. Donations/Influential persons - This is a category similar to the one mentioned above in the question, i.e., 'amount of money donated after graduation'. Donations by the applicant or relations to influential people, like politicians and businessmen, may help the student get accepted, even with lesser credentials. This data is very difficult to capture
+
+
+
+
+How accurate / successful are existing online admission matching such as OMSCS? How would you measure this?
+
+
+
+
+Choose at least two of the questions above for your assignment. Be sure to include citations to support your claims.
