@@ -1,0 +1,1717 @@
+CS 7646 Midterm Finance Questions
+Instructions to TAs:  
+Please cut and paste questions here, at most one question per page.  Use the “courier new” font, 11pt for all text. Please insert a page break after each question.
+Please post only your “best” questions here..
+Please indicate which chapter of the book the question relates to.
+Question relates to Chapter 7
+Which of the following is true for a beta-balanced portfolio?
+a) The beta values of all stocks in the portfolio are equal.
+b) The beta values of all stocks in the portfolio sum to zero.
+c) All stocks in the portfolio have equal weight.
+d) The weighted beta values of all stocks in the portfolio sum to zero.
+Correct answer is d) as described in Chapter 7 of the text: "Most hedge funds seek beta-balanced portfolios so that they are precisely protected against market-wide moves. That means, essentially Sum(beta_i*w_i) = 0, and Sum(|w_i|)=1.0"
+Question relates to Chapter 7
+You are the manager of an ETF that tracks the performance of the S&P 500 (i.e your ETF is just like SPY).
+What are the alpha and beta numbers for your ETF?
+A) alpha = 0, beta = 0
+B) alpha = 0, beta = 1
+C) alpha = 1, beta = 0
+D) alpha = 1, beta = 1
+Answer B.  
+Explanation : Your ETF / SPY tracks the overall market performance.
+Therefore its alpha = 0 and beta = 1, because its performance is equivalent to that of the markets
+Question relates to Chapter 7
+Given the following Symbols and their associated Betas what would be a beta balanced portolio?
+    ABC  .75
+    DEF  .25
+    GHI  1
+ 
+a) [ABC: -.5, DEF: -.1, GHI:  .4]
+b) [ABC:  .5, DEF:  .1, GHI:  .4]
+c) [ABC:  .5, DEF: .25, GHI: .25]
+d) [ABC: -.5, DEF: .25, GHI: .25]
+Correct Answer: a
+Reason: It is the only one that satisfies both properties of a beta-balanced portfolio (page 54)
+    >>>(.75 * -.5) + (.25 * -.1) + (1 * .4)
+    0.0
+   
+    And
+   
+    0.0
+    >>> .5 + .1 + .4
+    1.0
+Question relates to Chapter 7
+In the Capital Asset Pricing Model, on average what is alpha assumed to be, and why?
+a) 0 - because it is a coefficient that ranges from -1 to +1, and 0 is the median
+b) 0 - because it is the difference in performance of a stock above the market, and taken collectively all stocks cannot beat the market
+c) 1 - because it represents the weightings of assets in a portfolio, which must sum to 1
+d) 1 - because it is a stock's price volatility relative to the overall market, which by definition is 1  
+Correct answer is b. (From Ch. 7) Collectively all stocks cannot beat the market because together they are the market... any stocks with positive alphas are counterbalanced by other stocks with negative alphas.
+Question relates to Chapter 7
+The stocks of company A and B have a correlation coefficient of -0.7, what could prossibly be, company A and B?
+A) A cell phone manufacturing company and a medicine manufacturing company
+B) Two luxury goods manufacuring company
+C) A automobile manufacturing company and a petroleum company
+D) An airline company and a confectionary company(which makes candies)
+Answer:  c)
+A) Cell phone and medicine are unrelated sectors, so their correlation would be around 0
+B) Two luxury goods company are same sectors, they might be positivly correlated
+C) If the oil price goes up, that might result in the decrese of the sales of cars, so they are negativly correlated
+D) Airline companies have nothing to do with candys, so their correlation might be around 0
+Question relates to Chapter 7
+Consider the following stock prices:
+ 
+    Date (dd/mm/yyyy)      Stock A Price      Stock B Price
+1.   01/03/2015               $50.00              $32.21
+2.   04/03/2015               $51.00              $31.98
+3.   07/03/2015               $50.04              $32.73
+4.   12/03/2015               $52.19              $30.74
+5.   20/03/2015               $52.24              $30.50
+ 
+Based solely on the foregoing prices, how would you best describe the relationship between Stock A and Stock B?
+ 
+a) Positively correlated
+b) Negatively correlated
+c) Insufficient data to determine correlation
+d) No correlation
+ 
+Correct answer is b) Negatively correlated
+Explanation: The stocks can best be described as negatively correlated because as the price of one stock increases, the price of the other stock decreases (and vice versa).
+Question relates to Chapter 7
+find stocks that systematically outperform the market the market is known as
+a)seeking alpha
+b)buying alpha
+c)buying beta
+d)seeking beta
+Correct answer is b) because Alpha is the systematic difference in performance(return)
+of a stock over and above the market.
+Question relates to Chapter 7
+Which of the following statement is NOT corrected about CAPM (return = beta * spy + alpha) :
+a) Alpha is the systematic difference in performance of a stock over and above the market.
+b) Beta represents the stock's price volatility relative to the overall market.
+c) If you are seeking alpha, you should buy ETF, such as SPY.
+d) If you are seeking alpha, you should try to improve your investment skills and bet on individual stocks.
+correct answer is c) because for buying ETF, such as SPY, return is primarily based on the upward of general market to get return, which is called buying beta.
+Question relates to Chapter 7
+If we can ignore or disprove the Efficient Market Hypothesis, based on the CAPM model, which combination of variables will give us the optimal portfolio performance when the S&P500 is in a bear market?
+(Assuming we can predict that S&P500 will go down indefinitely and our portfolio uses S&P500 as a benchmark for the market)
+a) high beta, high alpha
+b) high beta, low alpha
+c) low beta, high alpha
+d) low beta, low alpha
+Answer: c)
+CAPM equation is r(p) = beta(p)*r(m) + alpha(p); if we can predict market returns will be negative, we would want to choose a low or even negative beta to maximize this equation.
+Alpha does not depend on market returns so we will always want a high alpha.
+Question relates to Chapter 7
+On a given day, the return of stock XYZ's is -3% and its beta is 2; the general overall market return is -2% on that same day. According to the Capital Assets Pricing Model (CAPM), what is the alpha of stock XYZ on that given day?
+Select one answer:
+a) 0
+b) 1
+c) -1
+d) -7
+Correct answer: b)
+Explanation
+CAPM equation is:
+Return(XYZ) = beta * return(general overall market) + alpha
+=> -3% = (2 * -2%) + alhpa
+=> alpha = -3% + 4%
+=> alpha = 1
+Question relates to Chapter 7
+APPL weight: 22%; APPL return: 10%
+GOOG weight: 48%; GOOG return: -5%
+SPY weight: 20%; SPY return: 3%
+XOM weight: 10%; XOM return: 5%
+What would be the portfolio's overall return?
+a) 5.75%
+b) 0.9%
+c) 13.0%
+d) 5.7%
+Correct answer is b) because 22% * 10% + 48% * -5% + 20% * 3% + 10% * 5% = 2.2% + (-2.4%) + 0.6% + 0.5% = 0.9%
+Question relates to Chapter 7
+What correlation coefficient best represents that two financial instruments prices are changing independently of each other?
+        a) -0.8
+        b) -0.1
+        c) 0.4
+        d) 0.9
+Correct answer is b) because it is the answer choice closest to 0. The correlation coefficients quantify the extent at which the price change of one instrument moves with or against the other instrument. A correlation of 1 is a perfect positive correlation. -1 is a perfect negative correlation. 0 is no correlation between the two financial instruments. Moving independently means that there is not a strong correlation between the two.
+Question relates to Chapter 7
+Consider two stocks with tick codes BAD and DET. BAD and DET have market capitilsations of $400,000,000 and $100,000,000 respectively. What is the return on a cap weighted portfolio if BAD achieved a return of 1% and DET a return of -2% ?
+Select one answer:
+a) 1.2%
+b) -1.4%
+c)        0.4%
+d) 0.8%
+Correct answer: c)
+Solution:
+Since the portfolio is cap weighted then asset BAD will represent 80% of the portfolio and DET 20% of the portfolio. Then the portfolio return is given by:
+        ret = 0.8 x 0.01 + 0.2 x -0.02 = 0.4%
+Question relates to Chapter 7
+Suppose the market is guaranteed to increase in value over a time period.  If purchasing a stock with a positive Alpha Which of the below Beta values would be most desirable during that time period?
+a) Beta = 0.0
+b) Beta = 2.0
+c) Beta = 1.0
+d) Beta = -2.0
+Answer:  b - A positive Alpha means that the stock will have a return suprior to the market.  Becasuse we know the market is increasing in value we want to purchase the stock that is going to have the greatest fluctuation from the market in the same direction as the market.  Positive Beta designates that the stock is moving in the same direction as the market so we want the largest movement in that direction.  answer choice b is the highest positive Beta.  Negative Beta designates that the stock is moving inversely to the market which makes answer choice d the worst performing.
+Question relates to Chapter 7
+A portfolio is defined by a weighted collection of stocks, S_i, where sum(|W_i|) = 1.0.  
+Given that each stock has an associated beta, B_i, a "Beta Balanced" portfolio means that:
+ 
+A) The sum of all beta is 1.0: sum(B_i) = 1
+B) All B_i are approximately equal:  B_0 ~= B_1 ~= B_2 ~= ...
+C) The sum of all beta is 0.0: sum(B_i) = 0
+D) The sum of beta times the weight is 0.0: sum(W_i * B_i) = 0
+Correct answer is D) as this formula is directly in the text.  
+Also, intuitively, Beta represents a stock's volatility with respect to the market.  Multiplying the volatility times the weight of a stock, gives the weighted volatility of the portfolio (with respect to the market).  A portfolio with zero volatility is in theory "protected from market-wide moves".
+Question relates to Chapter 7
+An investor forecasted that stock A will experience positive development and rise 2 % over  the overall market. So, he buys a long position of 100$ . At the same time he expects stock B to go down 1% below the market so goes 50$ short with it.
+        Assuming that the beta for the stock A is 2.0 and beta for stock B is 1.0. What would be the net return on the investment if the market stayed flat.
+a)2 Dollars
+b)1.5 Dollars
+c)2.5 Dollars
+d)3 Dollars
+Answer: 2.5 Dollars
+Solution.
+Use CAPM equation
+return(A) =beta(A)*return(market) + alpha(A)
+           = 0 + 2%          
+           = 2%
+return(A) in dollars = 2% of $100 = $2
+return(B) = beta(B)*return(market) + alpha(B)
+           = 0 + (-1%)
+           = -1%
+return(B) in dollars = -1% of -($50)
+                       = $0.5
+net return = return(A) + return(B)
+            = $2 + $0.5
+            = $2.5
+[the beta component of both the equations became 0 as the market remained flat so the value of return(market) =0
+since the investor went short position on stock B, return in dollars for stock B would be positive.]
+Question relates to Chapter 9
+Fund A has outperformed SPY by 2% over the last year. The standard deviation of the difference between Fund A and SPY has been 8%. Consider these two questions:
+What is the information ratio (IR) of the fund?
+Assuming the fund can maintain it’s IR over more stocks or trades what change to its trading could enable the fund to triple its information ratio?
+
+a) IR = 4; Fund A needs to double trades to triple IR
+b) IR = .25; Fund A cannot triple its information ratio
+c) IR = .25; Fund A needs to utilize 9x as many trading opportunities
+d) IR = .5; Fund needs to diversify into 3x as many stocks
+
+Correct answer is c)
+Question relates to Chapter 9
+Barren Wuffett's portfolio has returned 20% over the past year, while making 10 trades. Rebirth Technology's portfolio has returned 20% over the past year, while making 10,000 trades.
+Assume both portfolios carry the same levels of risk. 
+According to the fundamental law of active portfolio management, which manager has the most skill as measured by information coefficient?
+
+
+a) Barren Wuffett.
+b) Rebirth Technology.
+c) The two have equal skill, because their total returns are the same.
+d) It depends on the return of the SP500.
+
+Answer:
+a) IR_wuffett == IR_rebtec, and because IR = IC * sqrt(breadth):
+   IC_w * sqrt(BR_w) == IC_rt * sqrt(BR_rt)
+   IC_w * sqrt(10) == IC_rt * sqrt(10000)
+   IC_w * 3.16 == IC_rt * 100
+   IC_w > IC_rt
+Question relates to Chapter 9
+According to Grinold's simplified Fundamental Law of Active Portfolio Management, a four-times increase in breadth (number of trades) should result in what change in performance?
+
+a) Zero change.
+b) A four-times decrease.
+c) A four-times increase.
+d) A two-times increase.
+
+Correct answer is d) because the law states that performance = skill * sqrt(breadth).
+Question relates to Chapter 9
+In Grinold's Fundamental Law of Active Portfolio Management, which of the following represents a perfectly correct predictor for the managers Information Coefficient or IC.
+
+a. -1.0
+
+b. 1.5
+
+c. 1.0
+
+d. 0.0
+
+
+
+answer is = c. 1.0
+Question relates to Chapter 9
+Modern portfolio theory distinguishes between two broad categories of risk.  Which type of risk is reduced by diversifying your portfolio, and why?
+
+a) Systematic Risk is reduced because diversification reduces volatility of a portfolio.
+b) Specific Risk is reduced because diversification increases your information coefficient.
+c) Specific Risk is reduced because diversification reduces volatility of a portfolio.
+d) Systematic Risk is reduced because diversification increases your information coefficient.
+
+Correct answer is c) because research has shown that the volatility of a portfolio of stocks declines as more individual stocks are included in a portfolio.
+Question relates to Chapter 9
+You have the following situation:
+
+- You have a fair coin (50% heads, 50% tails), and can make bets based on the outcome of coin-tossing:
+- In alternative 1 you can make 1000 bets for $1 each (if you toss heads you gain $1, if you toss tails, you lose $1)
+- In alternative 2 you can make one bet on $1000 (if you toss heads you gain $1000, if you toss tails, you lose $1000)
+
+Which tools would help you choose between alternatives?
+a) Sharpe ratio
+b) The standard deviation of returns
+c) Return to risk ratio (unadjusted for risk free return)
+d) All of the above.
+
+Correct answer is b) since the expected return of both alternatives is the same ($0), the best choice would be to choose the alternative with the lowest risk.
+Question relates to Chapter 9
+What is the difference between the Sharpe Ratio and the Information Ratio?
+
+a) Unlike the Sharpe Ratio, the Information Ratio measures excess return and risk relative to a specific benchmark index. The Sharpe ratio is similar but is relative to a risk free rate instead of a benchmark index.
+b) Unlike the Information Ratio, the Sharpe Ratio measures excess return and risk relative to a specific benchmark index. The Information ratio is similar but is relative to a risk free rate instead of a benchmark index.
+c) Unlike the Sharpe Ratio, the Information Ratio separates market return from stock-specific return.
+d) Unlike the Sharpe Ratio, the Information Ratio is the number of trading opportunities over time.
+
+Correct answer is a) because the Information Ratio measures excess return and risk relative to a specific benchmark index. The Sharpe ratio measures excess return and risk relative to a risk free rate.
+Question relates to Chapter 9
+Assume you enter into a bet with Jim Simons to see who is the better investor(achieve a higher information ratio). You know that the breadth of his portfolio exceeds your own by 400x. How much higher does your Information Coefficient(skill) need to be to level the playing field?
+
+a) 10
+b) 20
+c) 15
+d) 5
+
+Answer:
+b) 20 
+Grinold's Fundamental Law of portfolio management can be specified as:
+IR=IC*sqrt(breadth)
+setting the IR values equal and substituting Jim Simon's breadth given in the question
+IC1*sqrt(b1)=IC2*sqrt(b2)
+IC1*sqrt(b1)=IC2*sqrt(400b1)
+IC1=20*IC2
+so given a breadth increase of 400x you must have a 20x improvement in your IC(IC1) to compensate
+Question relates to Chapter 9
+Fund manager Alice specializes in energy stocks while fund manger Bob specializes in technology stocks. Both of them exclusively build portfolios from their respective sectors. They decide to join forces and create a combined portfolio. Which of the following are true statements:
+
+A. Their information ratio (IR) is higher as their information coefficients (ICs) add up
+B. Their IR is higher due to the increase in breadth
+
+
+a) Only A
+b) Only B
+c) Both A and B
+d) None
+
+Correct answer is b) because their skills will get averaged out, but the breadth of the portfolio will increase.
+Question relates to Chapter 9
+A rubber shortage causing the stock price of a tire company to drop is an example
+of what type of risk?
+a) Company-specific risk
+b) Industry risk
+c) Supplier risk
+d) Systematic risk
+
+Correct Answer: b
+In this case, the rubber shortage which would affect the en-”tire” industry.  That same rubber shortage is unlikely to affect the stock price of a movie production company illustrating how the risk is isolated to one industry.
+Question relates to Chapter 9
+What is the range for Information Coefficient?
+
+a) -1 to 1
+b) 1 to 100
+c) 0 to 1
+d) 0% to 100%
+
+Correct answer is “a”.  Information Coefficient is similar to correlation and it ranges from -1 to 1 inclusive.  IR and IC can be negative.
+Question relates to Chapter 9
+According to the Fundamental Law of Active Portfolio 
+Management, to exactly double Information Ratio while the Information
+Coefficient stays the same, what do we have to do?
+A.) A manager must find four times as many trading opportunities.
+B.) A manager must find eight times as many trading opportunities.
+C.) A manager must evaluate stocks based on systematic risk.
+D.) A manager must reduce the standard deviation by 4.
+
+Correct answer A.) because IR = IC*sqrt(breadth). And breadth is 
+the total number of trading opportunities presented over time.
+Question relates to Chapter 9
+Diversification of a portfolio has shown to mitigate which type of risk?
+
+a. Systematic risk
+b. Specific risk
+c. Market risk
+d. Investor-specific risk
+
+Correct answer: b. 
+Research has shown that the volatility, or standard deviation of returns, of a portfolio of stocks declines as more individual stocks are included in the portfolio.
+Question relates to Chapter 9
+Which of the following can give your portfolio more breadth? Choose the best answer.
+
+1 Diversification of Assets
+2 Trading More Frequently
+3 Including more people in the decision on where to invest
+
+
+A) 1
+B) 2
+C) 1,2
+D) 1,2,3 
+
+Answer: C
+
+Justification: Breadth is "the number of trading opportunities presented over time" (p65). In a conventionally managed portfolio, having more assets presents more trading opportunities over time because trade decisions aren't cornered by the performance of one asset. Making more frequent trades with portfolio equities is a way of creating more trading opportunities in a more active management strategies (p61).
+Question relates to Chapter 9
+Why is it that an increment in the information coefficient (IC) has a greater reflection on the information ratio (IR) than an equal increment in the portfolio breadth?
+
+a) portfolio breadth is inversely proportional to the IR. 
+b) portfolio breadth affects IR as square root, whereas IC affects IR proportionally. 
+c) portfolio breadth cannot be increased at a later point. 
+d) IR is directly proportional to the exponential of IC. 
+
+
+Correct answer is b) because IR (Information Ratio) = IC * sqrt(breadth)
+Question relates to Chapter 9
+Which of the following components reflects the price movement that cannot be attributed to the market overall, and is sometimes attributed to the skill of the investor?
+
+a. Sharpe Ratio
+b. beta
+c. Information Ratio
+d. alpha
+
+Correct answer is (d) because beta is a measure of the volatility of the stock, while alpha is the residual, or what is seen due to the skill of the investor or the quality of information used in selecting a stock.
+Question relates to Chapter 4
+You are a Hedge Fund Manager meeting with a prospective client.
+The client requires that you double his money in 10 years. What is the Compound Annual Growth Rate (CAGR) of the fund portfolio needed to meet the client demands?
+a)7.2 %
+b)10 %
+c)14.4 %
+d)20 %
+The correct answer is a)
+Using the Rule of 72 we can determine the required CAGR.
+CAGR= 72/10 years
+Question relates to chapter 4
+John has $20,000 saved.  He's optimistic, but not unreasonably so, and thinks he might be able to average an 8% annual return each year.  
+Approximately how long will it take for his savings to exceed $1,000,000?  Select the choice that is closest to the exact answer.
+(a) 55 years
+(b) 52 years
+(c) 45 years
+(d) Nobody lives that long
+Correct Answer: (b) 52 years
+(a) 55 years: is closest to what the Rule of 72 would say, but too long. (72 / 8) = 9 years per doubling, 6 doublings required -> 54 years.
+(b) 52 years: is correct and closest to the actual answer, since Rule of 72 says 54 years, but 6 doublings yields roughly $1,280,000.  We needed to aim for less time, not more.
+(c) 45 years: is for people who made a mistake in the number of doublings needed.
+(d) Nobody lives that long: is for people that don't know the rule of 72 or the awesome power of compounding interest.
+Question relates to Chapter 4
+Which of the following is true about the market spread?
+a) A smaller market spread means the market is not very liquid
+b) The market spread is unrelated to the liquidity of the market
+c) Brokers can earn money from the market spread when clients have overlapping buy and sell orders
+d) High trading volume markets have large market spreads
+Correct answer is c) because brokers with overlapping buy and sell orders can act like a middle man and profit on the difference between the buy and sell price (i.e., the market spread). The other answers are incorrect because the market spread is inversely correlated with liquidity and the trading volume of the market.
+Question relates to Chapter 4
+For the following order book, what is the average price per share a buyer would pay on a market order of 1200 shares?
+Bid Size        Price                Ask Size
+                $220.00                1000
+                $210.00                500
+                $200.00                500
+500                $190.00
+500                $180.00
+500                $170.00
+a) $205.83
+b) $207.50
+c) $184.16
+d) $182.50
+CORRECT ANSWER:
+b) $207.50
+ANSWER VALIDATON:
+(quantity available at each price up to 1200 shares) / number of shares
+((500 * $200) + (500 * $210) + (200 * $220)) / 1200 = $207.50
+Question relates to Chapter 4
+Brokers can legally make money in all the below trades except:
+a) Trading in dark pools between brokerage firms from a portion of the market makers spread.
+b) Trading among their own brokerage firm clients on the market makers spread.
+c) Trading in advance of their own clients via front running.
+d) Trading in advance of any other broker's clients.
+Answer c) is correct according to the end of chapter 4 on the mechanisms of clearing trade orders.
+According to the book, "Front Running" is trading in advance of clients, knowing what the price
+movements will likely be. The ethics of this are dubious when it is trading against its own clients.
+Question relates to chapter 4
+Which of the following is TRUE of mutual funds but not hedge funds?
+a) Mutual funds rely on funds from individual investors
+b) Mutual funds must report their holdings regularly
+c) Mutual fund investors must be accredited
+d) Mutual funds are not allowed to advertise
+Correct answer is b) since all other answers are true of hedge funds or not true of mutual funds.
+Question relates to Chapter 4
+Which of the following best describes the Fundamental Law with respect to risk-adjusted returns?
+a) Increasing breath will have greater positive impact then increasing information coefficient by the same amount.
+b) Increasing the information ratio is equivalent to increasing the information coefficient
+c) Increasing the information coefficient is proportional to increasing the information ratio, whereas increasing the breath affects the information ratio only as a square root
+d) Decreasing the breath while holding the information coefficient constant will increase the information ratio.
+Answer: (c)
+The Information Ratio is defined as IR = IC * sqrt(breath)
+Question relates to Chapter 4
+A given portfolio has 3 percent CAGR.  Approximately how many years will be required for this portfolio to double in size?
+a) 72 years
+b) 2 years
+c) 48 years
+d) 24 years
+Correct answer is d) because according to the Rule of 72, a portfolio growing at 3 percent CAGR will require 24 years to double (3x24=72)
+Question relates to Chapter 4
+Which order is accepted by exchanges?
+a) trailing stop
+b) sell limit
+c) sell short
+d) stop loss
+b) is correct because exchanges only accept buy/sell market/limit orders.
+Other orders are handled by brokers.
+Question relates to Chapter 4
+How do hedge fund fees typically differ from the fees of mutual funds?
+a) Hedge funds fees are based only on a percentage of assets under management (expense ratio)
+b) Hedge funds are lightly regulated and secretive therefore they do not disclose their fees
+c) Hedge funds are compensated in a hybrid structure incorporating both the traditional expense ratio and a portion of the funds returns
+d) Hedge fund fees are based solely on the funds ability to outperform a particular stock index.
+ 
+Correct answer is c) a hybrid structure using both a percentage of assets under management and a portion of the funds returns.  The expense ratio for a hedge fund is typically 2% (double that of the typical mutual fund’s 1%).  Also hedge funds customarily charge 20% of the funds returns.  As a result, this fee arrangement is often referred to as “2 and 20”.  However these values are not the universal standard as hedge funds may choose their specific fee arrangement.  
+Question relates to Chapter 4
+Consider the following entries appears on the Order Book for IBM stock:
+Bid/Ask        Price        size
+Ask        105.05        1000
+Ask        105.00        200
+Ask        104.99        500
+Bid        104.50        400
+Bid        104.25        800
+Now, the following 2 buy orders are placed as it appears below:
+Buy, 400, Limit, 105.06
+Buy, 250, Limit, 105.05
+What should be the price of the stock after execution of those 2 orders?
+a. 105.06
+b. 104.99
+c. 105.00
+d. 105.05
+Answer is c. The first buy order will execute at 104.99 and still have 100 share left at that price. For the 2nd buy order will first get 100 share at 104.99 and rest 150 at a price 105.00. Making the last transacted price as 105.00.
+Question relates to Chapter 4
+Q. A broker purchased 100 shares of a stock at the price of $10 per share, together with a trailing stop order placed with 10% trailing threshold for the stock holding. If the stock went up to its highest $12 per share, and dropped to $8 per share. What would be the outcome?
+a) The trailing stop order triggered a market order as soon as the price dropped to $9 dollars to sell all 100 shares but with a loss of $100.
+b) The trailing stop order triggered a market order as soon as the price reached to $11 dollars to buy another 100 shares and paid $1100.
+c) The trailing stop order triggered a market order after the stock dropped to $10.8 from $12 to sell the 100 shares and received a profit of $80.
+d) The trailing stop order triggered a market order as soon as the price reached to $12 to sell 10% of the 100 shares (10 shares) and received a profit of $20.
+Correct answer is c) The trailing stop order acts similar to a normal stop order but unlike a stop order referring its threshold to the purchase price, it refers to the most recent high price to preserve most of the gains for an asset whose price has risen since original purchase. Since the recent high for the stock is $12, and if the price continues to drop until 10% below the high, which is $12 - $12 * 10% = $10.8, it immediately triggers a market order to sell.
+Question relates to Chapter 4
+According to the Bollinger?s Bands with technical analyses, you should sell your shares when the price of the stock is 2 standard deviations __________ band and buy when the price of the stock is 2 standard deviations __________ the band.
+a) above, on the lower
+b) above, below
+c) on the upper, below
+d) below, above
+Correct answer is b).  Bollinger Bands suggest selling your shares when the price of the share is two standard deviations above or buying when the price is two standard deviations below. If it?s exactly on either bands, the stock is expected to follow a stable (i.e., low volatility) simple moving average.
+Question relates to Chapter 4
+
+Which of the following is not a valid argument for why short selling is generally more risky than going long.
+a) The long term trend in stock prices is generally upward
+b) The maximum loss for a short is unlimited
+c) Shorts require exceptionally deep research to be successful
+d) Shorting involves two separate transactions
+Correct answer is d) because a trade being two seperate transactions doesn't necessarily make it more risky.
+The reasoning for d being the answer is weak at best compared to the other three answers. a, b, and c are
+objective facts that make shorting riskier than going long.
+Question relates to Chapter 4
+
+How does the liquidity of a market affect volumes and market spreads?
+a) High liquid markets tend to have low volume and high market spreads
+b) Low liquid markets tend of have high volume and low market spreads
+c) High liquid markets tend to have high volume and low market spreads
+d) Liquidity does not affect volumes or market spreads
+Correct answer is c): High liquid markets tend to have the smallest spread and high volumes
+Question relates to Chapter 2
+Suppose your portfolio is worth $200 this year (2016) after you started with “$X” in 2006. If your compound annual growth rate (CAGR) is 10%, what is the value of X i.e. the principal of portfolio?
+a. 100
+b. 85
+c. 110
+d. 77
+correct answer is d.
+Solution:
+Compound Amount (CA)= $200
+years (n) = 10
+Compound Annual Growth Rate(CAGR) = 10
+Principal(P)= X
+formula
+CA = PA * (1 + CAGR)^n
+200 = X * (1 + 10%)^10
+X = 200 / (1 + 10/100)^10
+    = 200 /(1.1)^10
+    = 200/2.594
+    = ~ $77
+Question relates to Chapter 4
+Joe purchased 1000 shares of a XYZ stock at the price of $15 per share.Joe set a trailing stop at 5%. If XYZ stock went up to its highest $20 per share, and dropped to $10 per share. Which of the following statements are true?
+a)Joe is at loss 750$
+b)Joe is at profit 750$
+c)Joe is at profit 4000$
+d)Joe is at loss 5000$
+Answer: C
+Explanation: Trailing stop is set at 5%. When the price is 15$, stop loss is set to 14.25. Since price of XYZ stock increased to 20$ stop loss will automatically change to 19$. So when price reduce to 19$ stop loss will be triggered. Gain per share is 4$, for 1000 shares profit is 4000$
+Question relates to Chapter 4
+Given the below order book for stock XYZ what is the market spread?
+Bid Size|  Price| Ask Size
+        | $20.05|      100
+        | $19.95|      100
+        | $19.90|      200
+     400| $19.80|
+     100| $19.70|
+     100| $19.50|
+a) $.55
+b) $.10
+c) $.30
+d) $.15
+Answer:
+b) $.10
+The market spread is the difference between the lowest ask price and hightest bid price.
+$19.90 - $19.80 = $.10
+Question relates to Chapter 2
+Using the Rule of 72, approximately how long would it take a portfolio growing at 3 percent to double?
+
+a) 100 years
+b) 24 years
+c) 33.3 years
+d) 72 years
+
+Answer: b, 24 years
+
+The Rule of 72 is a shortcut method that allows quick computation of compound interest and exponential growth.  By dividing the annual interest or growth rate of a porfolio into 72, one can get a quick but inexact number of years required to double the value of the portfolio.  In this case, 72 / 3 = 24. The precise value is 23.450 years.
+Question relates to Chapter
+Question relates to chapter 10
+What is NOT true for an optimal portfolio?
+a) Returns on an optimal portfolio are cyclic in that when an asset becomes popular, its future returns are reduced
+b) If a global event affects two apparently unrelated assets in an optimal portfolio, uncorrelated assets can suddenly become highly correlated
+c) It always includes all stocks with a very high positive correlation
+d) Weakly correlated asset choices can be part of an optimized portfolio
+Correct Answer: c
+Explanation: because portfolio optimization depends on portfolio diversification to keep risk in an acceptable range while aiming for higher returns.
+Question relates to chapter 10
+Which best explains why the Sharpe ratio of a portfolio may be higher than the Sharpe ratio of any of its individual components?
+a.) Portfolios can be optimized to maximize returns while individual assets cannot.
+b.) Positive asset correlations maximize the returns of the portfolio in an up market.
+c.) Returns of a portfolio are always higher than the returns of its individual components.
+d.) Negatively correlated assets in the portfolio reduce overall portfolio volatility.
+Correct answer is d) because negatively correlated assets in a portfolio reduce the oscillations (volatility) in returns of the portfolio, thus increasing its Sharpe ratio.
+Question relates to chapter 10
+Why is low correlation valued so highly?
+ 
+a) It reduces diversification
+b) If one asset does poorly, it is given that the other asset will help overcome losses since they are uncorrelated
+c) It dampens the oscillations that occur in return, thereby reducing volatility
+d) It's difficult to find highly correlated values in the first place
+ 
+Answer: (c)
+Justification: Combining negatively or low correlated assets helps to reduce the effects on return from the oscillations that occur in the individual assets.
+Question relates to chapter 10
+When comparing investments with different Sharpe Ratios, consider the Sharpe Ratio and its slope to find the proper risk and return that produces a better optimized investment. Which answer is correct?
+a)        A steeper slope will produce more risk and a higher return.
+b)        A steeper slope will produce less risk and a higher return.
+c)        A more level slope will produce less risk and a higher return than a steeper slope.
+d)        A more level slope will produce more risk and a higher return than a steeper slope.
+Correct answer is b) because the steeper the slope, the higher the Sharpe Ratio will be. An investment with a higher the Sharpe Ratio will perform better overall because it is less risky and also produces a higher return based on risk.
+Question relates to chapter 10
+Which one is not the common componet for portfolio optimization?
+a. Decision variables
+b. Objective function
+c. Constraints
+d. Sharp ratio
+correct answer: c).  the common components of portfolio optimization includes decision variables, objective function, constraints and search procedure.  Sharp ratio is not included.  
+Question relates to chapter 10
+Which of the following statements is NOT true?
+(A) Based on the modern finance fundamental assumption, if the investor wants to get higher return, he usually has to accept higher risk.
+(B) In the real market, it's hard to find out negatively correlated assets, but we can use low positive correlated assets combination instead.
+(C) The portfolio optimization can help us to find out a set of stock weights, which achieves a target return with the lowest risk.
+(D) No matter how the market changed, uncorrelated assets can't become correlated.
+The correct answer is (D)
+Explanation:
+(A) Chapter10, page 71, last paragraph: "This risk and return trade-off is one of the fundamental assumptions in modern finance".
+(B) Chapter10, page 75, first paragraph: "In practice, few assets are negatively correlated, so we will have to settle for low positive correlations."
+(C) Chapter10, page 76-77 : "For each level of target return, there is a set of weights that provides the lowest-risk portfolio for that return"
+(D) Chapter10, page 77, last paragraph: "Correlations can change: If a global event affects two apparently unrelated assets, uncorrelated assets can suddenly become highly correlated"
+Question relates to chapter 10
+Which of the following statement is false?
+a) A good strategy while building a portfolio is to look for anticorrelation in long term and positive corrrelation in short term between the individual stocks in the portfolio.
+b) Global event can affect two apparently uncorrelated assets and they can suddenly become highly correlated.
+c) It is possible to provide lower-risk portfolios than individual assets with similar returns.
+d) With efficient frontier, we cannot get a higher return in a portfolio than the individual stock with the highest return in the portfolio.
+Correct answer is a) because overall we look to maximize our returns and for this, we need to look for anticorrelation in short term and positive correlation in longer term (Lecture 2-10, module - Mean Variance Optimization)
+b is from the "Dynamic Process" section of chapter 10 of the book "What hedge funds really do"
+The efficient frontier indicates c and d are true.
+Question relates to chapter 10
+Both stock A and stock B have a risk of 10%. And the covariance between the daily returns of stock A and stock B is -0.9. For a portfolio with 50% stock A and 50% stock B, what the risk of this portfolio would be?
+a) cannot be determined
+b) higher than 10%
+c) equal to 10%
+d) lower than 10%
+Correct answer is d) because the covariance is -0.9, which means stock A and stock B are highly anti-correlated. The combination of stock A and stock B would have a lower risk than 10%.
+Question relates to chapter 10
+What is tail risk and why is it dangerous?
+a) The risk that two assets are closely correlated; this will cause their value to move
+   up or down together.
+b) The risk that an extreme negative event will occur that is too rare for your data
+   series to detect and account for.
+c) The risk that the performance of an asset will trail behind other assets in your
+   portfolio, underperforming expectations.
+d) The unaccounted for risk that an asset's performance will move sideways, neither up
+   no down, underperforming expectations.
+The correct answer is b). See Chapter 10, under the "No Panacea" heading near the end (I
+have the Kindle version of the book, which doesn't include page numbers). This describes
+tail risk and the effects it can have on a portfolio (up to and including destruction of
+a firm).
+Question relates to chapter 10
+Assume you have plotted the efficient frontier for a portfolio. Which of the following must be true?
+a) The ray (line segment from the origin to a specific point on the frontier) with the steepest slope represents the maximum Sharpe ratio
+b) The ray (line segment from the origin to a specific point on the frontier) with with the longest length represents the maximum Sharpe ratio
+c) The ray (line segment from the origin to a specific point on the frontier) with the shortest length represents the maximum Sharpe ratio
+d) The ray (line segment from the origin to a specific point on the frontier) with the flattest slope represents the maximum Sharpe ratio
+Correct answer is a) because the ray with the steepest slope represents the maximum expected return with the lowest possible risk (standard deviation)
+Question relates to chapter 10
+Which one of the following statements about Harry Markowitz's Efficient Frontier is false:
+a) There is always an optimal portfolio for each specified return.
+b) Straying away from the efficient frontier line will result in a sub-optimal portfolio.
+c) Reduced rewards always correlates to reduce risk.
+d) Maximum Sharpe ratio is the slope of the line that connects the risk-free rate lying on the y-axis.
+Correct answer is c) because reduced risk at some point doesn't correlate to reduced risk and might end-up increasing risk.
+Question relates to chapter 10
+The optimized risky portfolio can be found in the efficient frontier by getting the point  of _____________.
+a) the maximum return point on the efficient frontier
+b) the minimum variance point on the efficient frontier
+c) the tangency point of the capital market line and the efficient frontier
+d) None of the above choice
+
+Correct answer is c) because according to CAPM theory,at this point, shape ratio is maximized.The portfolio with maximum Sharpe ratio is the point where a line through the risk free return that tangent to the efficient frontier, in mean-standard deviation space, because this point has the property that is has the highest possible mean-standard deviation ratio.  tangency portfolio is optimized risky portfolio.
+Question relates to chapter 10
+Regarding efficient frontier, which one of the following statements is NOT correct:
+a) Portfolio on efficient frontier will provide the lowest standard deviation for a given return
+b) Portfolio on efficient frontier will provide the same sharp ratio
+c) Portfolio on efficient frontier will provide the highest return for a given standard deviation
+d) Portfolio within efficient frontier is not optimal
+Answer is b), because sharp ratio of portfolio on efficient frontier is different, and tangency portfolio provides the highest sharp ratio
+Question relates to chapter 10
+Two portfolios A and B both are a combination of US stocks.
+On risk return scatter plot, we observe that the slope of a ray from the origin outward that
+passes through portfolio A's and B's location is 1 and 1.2 respectively.
+Which portfolio has higher Sharpe ratio?
+a) Sharpe ratio A < Sharpe ratio B
+b) Sharpe ratio A = Sharpe ratio B
+c) Sharpe ratio A > Sharpe ratio B
+d) Not enough data is given to calculate Sharpe ratio
+Correct answer is a) because the slope represents a portfolio's Sharpe ratio and portfolio B
+has larger slope.  
+Question relates to chapter 10
+In a two asset portfolio, if we reduce the correlation between these two assets, to which direction the efficient frontier will be moved?
+a) The efficient frontier extends to the left, or northwest quadrant. It represents a reduction in risk while maintaining or enhancing portfolio returns;
+b) The efficient frontier is stable unless return expectations change. If they do, the efficient frontier will extend to the upper right with little or no change in risk;
+c) The frontier moves to down and the left. It represents increased risk from negative correlation;
+d) The frontier is stable unless the assets expected volatility changes. This depends on each assets Standard Deviation;
+------------------------------------------
+Correct answer is a)
+Because: - Reducing correlation between the two assets results in the efficient frontier expanding to the left and possibly slightly upward. This reflects the influence of correlation on reducing portfolio risk. b) is wrong, because a move to upper right would indicate, higher returns for higher risk. c) is the wrong choice, because if EF moves left your risk is decreased not increased. d) is not the right one.
+In Modern Portfolio Theory, Optimization reduces some of the guesswork of portfolio construction. What limitations does its apparent rigor and scientific basis suffers from?
+A) Outputs are only as good as inputs
+B) Standard deviation of return is not the only measure of risk
+C) Tail Risks
+D) All of the above
+Answer: D - All of the above
+Explanation:
+A: Outputs are only as good as inputs. Asset allocations depend on forecast returns, and forecasts can be noisy and erroneous.
+B: Standard deviation of return is not the only measure of risk.Other metrics that focus mainly or exclusively on downside deviations in asset returns, such as the Sortino ratio or downside capture, may better reflect what risk means to you.
+C: Beware tail risk. Many hedge fund blowups, occurred because managers underestimated the likelihood of extreme negative events.
+Question relates to chapter 10
+You are deciding how to allocate your portfolio between three assets.
+Asset A has 10% return and 5% risk.
+Asset B has 10% return and 5% risk.
+Asset C has 10% return and 5% risk.
+When you look more closely at the individual price movements of each asset, you find that the price of A and B are positively covariant, and the price of A and C, as well as B and C, are negatively covariant.
+How should you allocate your portfolio to meet a target return of 10% with minimum risk?
+A) 50% A, 50% B
+B) 25% A, 25% B, 50% C
+C) 33% A, 33% B, 33% C
+D) It doesn’t matter because all 3 stocks have the same risk.
+Answer: B
+Question relates to chapter 10
+Which of the following are TRUE regarding points on the Efficient Frontier?
+I.   They represent a portfolio's change in Sharpe Ratio over time.
+II.  They represent the lowest risk portfolio for each level of target return.
+III. They represent lower risk portfolios than individual assets with the same or similar returns.
+a) I and II
+b) I and III
+c) II and III
+d) I, II and III
+Answer: c)
+Explanation:
+"The lowest risk portfolios for each level of return lie along a line called the efficient frontier... Note that the efficient frontier provides lower-risk portfolios than individual assets with similar returns." What Hedge Funds Really Do pg.77  The efficient frontier does not have a time element.
+Question relates to chapter 10
+A very risk-averse client is asking you how to allocate two stocks that have the following data in order to ensure that their risk is minimized, no matter what the market does.
+    Squigglies stock:
+       Seems to follow the market exactly
+       Anticipated to be 4% worse than the market in a week.
+    Snugglies stock
+       Seems to follow the market fluctuations, but does so with 3x the volatility
+       Anticipated to be 2 % better than the market in a week.
+ 
+What allocations would you recommend between the two stocks??
+   a. 25% allocated to Snugglies, 75% shorted on Squigglies
+   b. 25% shorted on Snuggles, 75% shorted on Squigglies
+   c. 33% allocated to Snugglies, 66% shorted on Squigglies
+   d. 33% allocated to Snugglies, 66% allocated on Squigglies
+ 
+Answer a)
+ 
+some proof:
+Wsq (-1)  + Wsn (3) = 0
+Wsq = 3 Wsn
+ 
+abs(-3Wsn) + abs (Wsn) = 1
+4Wsn = 1
+Wsn = .25
+Wsq = -0.75
+Question relates to chapter 10
+How many times can you optimize a portfolio?
+a) once
+b) twice
+c) size of porfolio
+d) infinite
+Correct answer is a)
+Once you have optimized a portfolio you must use the orginial numbers to perform a new optimization. This means it can be optimized only 1 time.
+Question relates to chapter 10
+The Modern Portfolio Theory assumes that investors are generally
+a) risk averse
+b) risk neutral
+c) risk seekers
+d) risk moderate
+Correct answer: a)
+Modern Portfolio Theory assumes that investors are risk averse, meaning that given two portfolios that offer the same expected return, investors will prefer the less risky one. Thus, an investor will take on increased risk only if compensated by higher expected returns. Conversely, an investor who wants higher expected returns must accept more risk.
+Question relates to chapter 10
+Which of the following is NOT true about optimization problem components?
+a) An example of a possible objective function is to maximize total portfolio return.
+b) An example of a possible constraint is that the sum of all weights is greater than 100 percent in a long-only portfolio.
+c) For a search procedure, when considering any function for which there is a calculable derivative there will be an immediately identifiable optimum.
+d) Decision variables are the proportion of the portfolio devoted to each asset.
+Correct answer is b) because there exists a definitional constraint such that the sum of all weights in a long-only portfolio cannot exceed 100 percent. Furthermore, the other three answer choices are all true.
+
+Chapter 5: Introduction to Company Valuation
+How is the book value of a company calculated?
+a) The total value of the assets minus intangible assets and liabilities.
+b) By multiplying the number of shares outstanding by the stock price.
+c) The sum of all the future discounted dividends over the life of the company.
+d) The average value on the books at all of the major stock exchanges.
+Correct answer is a) because this is the definition of a company’s book value.
+Chapter 5: Introduction to Company Valuation
+When talking to your friend, he claims that certain company's stock is really valuable given the amount of dividends that it will be paying.
+What kind of value is your friend talking about?
+== 4 possible answers labeled a) through d) ==
+a) Book value
+b) Intrinsic value
+c) Dividend value
+d) Share value
+== Short, complete, explanation ==
+The intrinsic value of any assert is the present value of all future returns. In this case, the value discussed regarding the stock is related to all the returns through dividends, thus, its intrinsic value.
+Chapter 5: Introduction to Company Valuation
+Market cap per book value is one way to measure how "expensive" a stock is. Choose the stock that has the lowest market cap per book value (B = Billion).
+Stock = AAPL
+Book value = $100B
+Outstanding shares = 5B
+Stock price = $100/share
+Stock = IBM
+Stock price = $130/share
+Book value per share = $13/share
+Stock = GOOG
+Market Cap = $500B
+Patent value = $100B
+Book Value = $125B
+Stock = TSLA
+Market Cap = $20B
+Book Value = $1B
+a) AAPL
+b) IBM
+c) GOOG
+d) TSLA
+Correct answer is c) because market cap per book value results as follows AAPL = 5; IBM = 10; GOOG = 4; TSLA = 20.
+Chapter 5: Introduction to Company Valuation
+Which of the following answer choices are true:
+a) a company that pays a dividend of 1$/year and a discount rate of 3% has an intrinsic value of $33.3333
+b) a company that has tangible assets valued at $100 million, intellectual property assets valued at $10 million and
+   liabilities that are equal to $50 million has a book value of $60 million dollars
+c) a company with 100,000 shares where each share has a price of $90 has a market capitilization of $900,000
+d) choices a) and b) are both correct
+Correct answer is a)
+becasue for answer choice 'a' the given information is relevent to intrinsic value which is equal to pv = fv/dr;
+therefore pv = 1/0.03 -> pv = 33.3333
+Answer b is incorrect becuase the correct book value is $50 million. Similarly, answer c) is also wrong because
+the correct market cap is $9,000,000. Finally, answer d) cannot be correct since the only correct answer is a)
+Chapter 5: Introduction to Company Valuation
+Consider  you own a 100 share in Microsoft, Which pays you 20 dollars in dividends every quarter.  Another investment opportunity is offered to you with a 8 Percent return a year  on your money.  Which of the following represent the total stream of dividends for the next 2 years:
+a) 40.00
+b) 35.6652
+c) 142.6611
+d) 160.00
+The Correct answer is C
+Correct answer explanation is:
+We used the dividend discount model to evaluate the dividend stream for two years compared to the other investment opportunity return which is 8 percent in our example. Dividends stream is worth less over time because the value evaluated in the future there for  80 dollars in yearly dividends will be worth 68.5871 in the second year in the future.
+1st year = 74.0740
+2nd year = 68.5871
+Total dividend stream after 2 years is: 142.6611
+Chapter 5: Introduction to Company Valuation
+The data for two companies 'ABC' and 'XYZ' is provided below. Which company has higher 'price to book ratio'?
+Choose one of the four options provided at the end.
+Company 'ABC'
+        Total Assets : $140 million
+        Intellectual Property : $40 million
+        Liabilities : $20 million
+        Market Capitalization : $240 million
+Company 'XYZ'
+        Fixed Assets : $100 million
+        Intellectual Property : $30 million
+        Liabilities : $20 million
+        Market Capitalization : $160 million        
+a) ABC
+b) XYZ
+c) Both have equal ratio
+d) Data is insufficient
+Correct Answer: a
+Explaination:
+price to book ratio = market cap/book value
+For ABC : 240/(140 -40 -20) = 3
+For XYZ : 160/(100 -20) = 2
+The person who has not understood the concept will simply ignore the intellectual propery for both the companies and will go for option c.
+Chapter 5: Introduction to Company Valuation
+Assume you are a conservative value-style investor who only invests when you can buy a share for less than what you estimate the companies shares would be worth if the company closed its doors tomorrow.  Which method should you use for estimating the company's value?
+a) Sharpe Ratio
+b) Intrinsic Value
+c) Book Value
+d) Projected Earnings Growth, discounted for the potential 1-day holding period
+Correct answer is c) because Book Value is the difference between the company's assets and liabilities and is the best available approximation of what owners would be left with after selling off assets and paying off obligations.
+Chapter 5: Introduction to Company Valuation
+For which of the following options is it best to valuate a company based on its book value (asset-based valuation)?
+a) A startup that just went past its first round of funding.
+b) A stable profitable company with no growth for the past 10 years.
+c) A company about to be liquidated.
+d) A company with a consistent 5% growth for each of the past 10 years.
+Correct answer is c) because a company about to be liquidated is only as valuable as its current assets, future expected growth and dividends are minimal.
+Chapter 5: Introduction to Company Valuation
+Company A is worth 100Mil in books. After a detailed fundamental analysis, you figure this company has an intrinsic value of 400Mil. You also
+find that this company has never failed dividend payout in the last 10 years. As an "Intelligent investor" who believes in value investing you want to look for the market capitalisation before going long on this stock. Assuming 1 million outstanding shares, which of the following prices will pique your interest in going long with this stock
+a) 500$
+b) 650$
+c) 400$
+d) 200$
+Ans: d. Market capitalisation is #of outstanding shares * price. Here MC is 200Mill which is a 50% discount on your Intrinsic valuation
+Chapter 5: Introduction to Company Valuation
+If you were to pay $500,000,000 for a company, which of the following companies
+is certain to maximize your profit if you purchase it?
+a)One that pays $31,000,000 per year in dividends at a discount rate of 5%.
+b)One that has 10,000,000 outstanding shares at $61 stock price.
+c)One that owns 64 factories at $10,000,000 each, but also has $20,000,000 in liabilities.
+d)One that employs world-class talent in the field of business development.
+The correct answer is c). The book value of the company is $620,000,000, which yields
+immediate profit of $120,000,000 if it is bought and then sold for pieces. Answer d)
+is meaningless, a) provides an intrinsic value of $620,000,000, but that is the expected return
+over the years and there are no guarantees. b) gives a market cap of $610,000,000.
+Chapter 5: Introduction to Company Valuation
+Alice has an impatient friend, Jan, who wants to buy a new sail boat today for $200,000, but the banks won't lend her any money.  She is currently receiving an annual check for $50,000 as part of a settlement she won three years ago.  She has 5 more annual payments that she is guaranteed to receive and offers to sell them to Alice today, for a lump sum of $200,000.  Assuming a 10% discount rate, is buying Jan's remaining annual payments for a lump sum of $200,000 a good investment?
+a) Yes, the present value is $250,000.00
+b) Yes, the present value is $500,000.00
+c) No, the present value is only between $180,000 and $190,000
+d) No, the present value is less than $180,000
+Correct answer: c
+Proof:
+Using the formula PV = FV/(1 + DR)^I
+pv1 = 50000/1.1^1 = 45454.545454545454545454545454545
+pv2 = 50000/1.1^2 = 41322.314049586776859504132231405
+pv3 = 50000/1.1^3 = 37565.740045078888054094665664914
+pv4 = 50000/1.1^4 = 34150.672768253534594631514240831
+pv5 = 50000/1.1^5 = 31046.066152957758722392285673482
+pv1 + pv2 + pv3 + pv4 + pv5 = 189539.33847042241277607714326518
+Chapter 5: Introduction to Company Valuation
+Your friend Alice has been running a micro-brewery out of her garage for five years now. Her annual profits from the micro-brewery are $10,000 per year. Alice has been approached by a large beer company that wants to purchase her company. Alice knows that you have been taking Machine Learning for Trading, so she asks your opinion on what her little micro-brewery is worth.
+What is her company's intrinsic value based on the $10,000/year profits? Assume a discount rate of 5%.
+a) $10,000
+b) $50,000
+c) $200,000
+d) $2,000,000
+Correct answer is c) because using a cashflow-based valuation, PV (microbrewery) = Annual profit / discount rate = $10,000 / 0.05 or $200,000.
+Chapter 5: Introduction to Company Valuation
+A friend of yours is moving in exactly a year, and he offers to sell you his car today. The catch is that he would remain the owner of the car for the whole year until he moves, at which point you will officially own the car.
+Assume you know with 100% certainty that the car will be worth exactly $5,000 in one year. Also assume that the best alternative to buying your friend's car would be to invest your money in a bond that guarantees exactly a %2 annual return. Rounded to the nearest dollar, what is the maximum amount you should pay for the car?
+a) $4,902
+b) $4,904
+c) $4,906
+d) $4,908
+The correct answer is a)
+Present value = Future value / (1 + Discount Rate) ^ (number of years until payment)
+Present value = 5000 / (1 + 0.02) ^ 1
+Present value = 4901.96 (rounded to 4902)
+Chapter 5: Introduction to Company Valuation
+Which of these companies would not give an immediate positive return if it were bought and its assets sold?
+ 
+a)
+Book Value: 50 million
+Share Price: $100
+Available Shares: 0.4 million
+ 
+b)
+Book Value: 100 million
+Share Price: $3.75
+Available Shares: 25 million
+ 
+c)
+Book Value: 70 million
+Share Price: $3.50
+Available Shares: 25 million
+ 
+d)
+Book Value: 300 million
+Share Price: $100
+Available Shares: 2.8 million
+ 
+Correct answer is c because Immediate Return = Book Value - (Share Price * Available Shares). C is the only one that would result in a negative value.
+Chapter 5: Introduction to Company Valuation
+The following are the assets & liabilities for TuringCo:
+(2) Data Centers: $25 million each
+PCB factory: $80 million
+Patent on the solution to the halting problem: $15 million
+Raw materials contract (debt): $20 million
+TuringCo stock data:
+Shares of stock: 2,000,000
+Current stock price: $50
+John values companies based on book value, and uses a 25% margin of safety when considering a long position.
+Which of the following would make John willing to buy stock in TuringCo?
+a) John is already willing to buy the stock.
+b) A stock price increase of $10 per share.
+c) A stock price decrease of $2.50 per share
+d) TuringCo paying off their raw material contract in full.
+Answer Explanation:
+the correct answer is d)
+With the only liability paid off, the book value becomes: 25 + 25 + 80 = $130 million
+130/100 = 1.30 = 30% safety margin, which is greater than 25%
+Original values from the question description:
+TuringCo book value = 25 + 25 + 80 - 20 = $110 million
+TuringCo market capitalization  = 2 million * $50 = $100 million
+margin of safety = 110 / 100 = 1.10 = 10% margin of safety (too low)
+a) The margin of safety is not high enough yet. (only 10%)
+b) This would decrease the margin of safety.
+c) $2.50 decrease in stock price would decrease market capitalization by $5 million to a total of $95 million
+    110 / 95 = 1.158 = 15.8% margin of safety (too low )
+Chapter 5: Introduction to Company Valuation
+In the latest Berkshire Hathaway Shareholder's letter, Warren Buffett writes:
+   "... we would be delighted to repurchase our shares should they sell as low as 120% of book value."
+This suggests that even at 120% of book value, Buffett believes his company is undervalued.
+What is one reason that book value can diverge from market value?
+a) Since accounting rules are conservative, appreciation in asset values are not included on balance sheets.
+b) Book values are post-tax and market values are pre-tax.
+c) When the value of any asset is discounted it becomes more than 120% its current value.
+d) Within a year dividend payments make up the difference between book and market value.
+Correct answer: a) from Chapter 5:
+        "First, accounting rules are biased to be conservative, so even if an asset has risen in value since the firm originally purchased itâ€” say, a piece of real estate in a growing cityâ€” it will be carried on the balance sheet at its original price, less accumulated depreciation."
+b) is incorrect since tax is not a concern when comparing book and market values by themselves.
+c) is incorrect because assets aren't typically discounted, cashflows are.
+d) is incorrect because dividend payments are usually discounted for far longer than one year in the future. And even with discounting it would be much greater than the difference between book and market value.
+Chapter 5: Introduction to Company Valuation
+What is the book value for company XYZ given the following information?
+ 
+* Manufacturing equipment worth $10M
+* Liabilities of $1M
+* Real estate holdings worth $5M
+* Technology patents worth $1M
+* Cash in bank accounts of $2M
+ 
+a) $14M
+b) $15M
+c) $16M
+d) $19M
+ 
+Correct answer is c
+ 
+Book Value = Total Tangible Assets minus Total Liabilities
+ 
+Total Tangible Assets = $10M (Manufacturing) + $5M (Real Estate) + $2M (Cash) = $17M
+Total Liabilities = $1M
+ 
+Therefore: $17M - $1M = $16M
+Chapter 5: Introduction to Company Valuation
+If certain investment gives a guaranteed return of 100 dollars every year, what is the total or accumulated present value of the investment until the 20th year with a discount rate of 10%?
+(a) 90.91
+(b) 851.36
+(c) 1000.00
+(d) 18181.81
+Answer: (b)
+Explanation:
+At first glance it seems that the only way to get this answer right is to sum all the present values up to the 20th year. But is all about establishing boundaries. The two equations that governs the present value are:
+Present Value for Year I:
+------------------------
+PV = FV / (1 + DR) ^ I
+Present Value for ALL years (sum) up to Infinity (payments in perpetuity):
+--------------------------------------------------------------------------
+PV = FV / DR
+That gives up that the present value of all the rewards up to infinity is:
+PV = 100 / 0.1 = $1000
+That gives an upper limit for the rewards, eliminating (c) and (d).
+The answer (a) is trivial. It is the present value for the reward of the first year.
+The only answer left is (b) that is less that the computed payments in perpetuity, and must be the correct answer.
+Chapter 12: Overcoming Data Quirks to Design Trading Strategies
+ The following scenarios consist of two parts: (1) the market incident and (2) the responsive action to account for said incident within a data-series. From the given scenarios, select the choice that does not correspond to an appropriate (or best practice) incident-response action to curtail data quirks:
+[A] (1) On Feb 10, 2015 shareholders of a stock A trading at $300 a share are paid a dividend of $1.50 per share. (2) All previous historical prices of stock A are reduced by 0.5%.
+[B] (1) On May 5, 2014 company B split its stock 3 to 1. (2)  All prices of company B prior to said date will be set to 1/3 of their value.
+[C] (1) Due to technical difficulties with the stock exchange Company C is not traded for 2 hours. Its price before and after the trading downtime was 15$ and $13.50 respectively (2) Company C’s trading price of $13.50 will be backfilled for the two hours of downtime.
+[D] (1) After two years of underperforming, D-rate hedge fund shuts down business as of June 8, 2015 (2) Analysis of the performance of hedge funds is carried out from Jan 1, 2013- Dec 20, 2015 and includes D-rate for time in which it operated.
+The correct answer is C as backfilling should only be used when forward filling is not an option for lack of previous pricing data. In scenario A, the cash dividend reduces assets, however it does not reduce the shareholder’s proportionate claim on the company. The historical price should be adjusted downward by the percentage of the dividend paid. Scenario B maintains assets and proportionate ownership; hence, historical assets should just be divided by the ratio of the split.  The action given in scenario D seeks to account for survivorship bias by not only including funds traded throughout the period.
+Chapter 12: Overcoming Data Quirks to Design Trading Strategies
+Why is it better to use adjusted price over actual price ?
+ 
+a. Adjusted price accounts for stock splits
+b. Adjusted price accounts for stock dividends
+c. Adjusted price accounts for both stock splits and stock dividends.
+d. Adjusted price accounts for gaps in data.
+ 
+Answer: c. Adjusted price accounts for both stock splits and stock dividends.
+ - From the book - "This is better than using actual price because; actual price could be misleading, since stock prices could change for reasons that has nothing to do with market supply and demand. To properly account for value returned by holding a stock we need to account for stock splits and dividends."
+Chapter 12: Overcoming Data Quirks to Design Trading Strategies
+Stock XYZ has the following price history during 2015:
+From January 1 until April 30 the stock is priced at $200 a share.
+On May 1st the stock splits 4 for 1, and the stock is priced at $50 a share.
+The $50 a share price holds steady from May 1 until August 31.
+On August 31 the stock splits 2 for 1, and the stock is priced at $25 dollars a share.
+The stock remains at the $25 a share for the rest of 2015.
+There is no additional trading or activity through January 4, 2016.
+If we reference a pandas file for stock XYZ on January 4, 2016; what will be the reported adjusted closing price for stock XYZ on February 1, 2015?
+a. $200 dollars a share
+b. $100 dollars a share
+c. $50 dollars a share
+d. $25 dollars a share
+Correct Answer is d) $25 dollars a share.
+price = $200 / 2 for the stock split on 8.31.15 / 4 for the stock split on 5.1.15
+Chapter 12: Overcoming Data Quirks to Design Trading Strategies
+You bought 100 shares of company "X" priced at $10/share.  When X reached
+$20/share the company performed a 2 for 1 split.  X is now trading at $30/share.
+How many shares do you own now and how much are they worth?
+ 
+a.) 100 shares, $3000
+b.) 200 shares, $6000
+c.) 100 shares, $6000
+d.) 50 shares, $1500
+ 
+Answer: b) You start with 100 shares worth $10/share = $1000. Immediately before
+the stock split you have 100 shares worth $20/share = 100*20 = $2000.  After the
+stock split you have 200 shares worth $2000, but at $10/share.  When the price
+triples to $30/share, you end up with 200 shares worth $30/share, or 200*30 =
+$6000.
+Chapter 12: Overcoming Data Quirks to Design Trading Strategies
+Some companies will pay a percentage of the share price out to shareholders as a dividend.  How is a dividend factored into the adjusted close prices?
+a) The dollar value of the dividend is subtracted retroactively from all previous adjusted close prices.
+b) The dollar value of the dividend is added to the stock for all future prices.
+c) Adjusted close price doesn't account for dividends, since the money subtracted from the company's assets will naturally lower the stock's price.
+d) The percentage value of the dividend is removed retroactively from historical actual prices.
+Correct answer is d) because adjusting historical prices downward by the same percentage "has the effect, in backtesting, of reaping a ... percent 'reward' on the date of the dividend."
+Chapter 12: Overcoming Data Quirks to Design Trading Strategies
+What is the reason for companies to do stock split (not reverse split)?
+a) To increase the value of company.
+b) To immediately increase the value of each share.
+c) To change the stock price more attractive to casual investors.
+d) To distribute cash to shareholders based on annual earnings.
+Correct answer is c) because stock split is usually done by companies to keep stock available to small investors with reasonable price. Stock split a) doesn't change the value of company, b) decreases the value of each share, and d) distributing cash based on annual earnings is a definition of dividends.
+Chapter 12: Overcoming Data Quirks to Design Trading Strategies
+Question:
+Supposed that at the beginning of 2014, you held 600 shares of MLFT stock and then will not sell or buy any of MLFT stock. On February 1st, 2014, the MLFT Company's Board of Directors declared a 2 for 1 split for their stock. Two years later, the company decided to perform a 1 for 3 reverse stock split on February 1st, 2016.
+How many MLFT shares do you own now after the 1 for 3 reverse split on 2/1/2016?
+a) 600
+b) 900
+c) 400
+d) 1800
+The answer is c) 400
+Explanation:
+At the beginning of 2014, you had 600 shares of MLFT stock. A 2 for 1 split converts each old share into two new shares, so an owner of 600 shares before the split will own 600*2 = 1200 shares after the split on 2/1/2014. A reverse 1 for 3 split converts three old shares into one new share, so the owner of 1200 shares before the reverse split will own 1200/3 = 400 shares after the reverse split on 2/1/2016.
+Chapter 12: Overcoming Data Quirks to Design Trading Strategies
+company XYZ announces 3 for 1 split of their stock. Lets assume that you own 10 shares of XYZ. What will be the likely
+impact of this on: 'your ownership of XYZ stock', 'price per share of XYZ stock' and 'total number of XYZ stocks, you hold'.
+Please choose from the following answers:
+   Ownership     Price per share   total numberof stocks
+a. increase      decrease          increase
+b. same          decrease          increase
+c. decrease      increase          same
+d. same          increase          increase  
+Correct answer is b
+Spliting stocks has no impact on your ownership, as instead of one share out of 30 shares of a company, for example, you have 3 out of 90 shares.
+Your ownership is still 1/10th.
+The price will decrease as now there are 3 times as many shares.
+The number of shares will increase as each share is split into 3.
+Chapter 12: Overcoming Data Quirks to Design Trading Strategies
+When there is a break in the middle of a series of price data -- no price data for some period of time -- the common approach for handling this missing data is:
+a) fill with linear interpolation between two points
+b) fill forward
+c) fill backward
+d) fill with mean between two points
+Correct answer is b) fill forward: to treat missing values as the same level as the last known value.
+Chapter 12: Overcoming Data Quirks to Design Trading Strategies
+What is a result of removing companies from your data that may not trade throughout the period you are examining?
+a) Creative Destruction
+b) Survivor Bias
+c) Having to fill forward data
+d) Having to adjust your prices
+The answer is B. The reason for this is because removing companies that may not be present the whole time can
+bias your data towards only those companies that have survived. This can give you a false picture of the market.
+Chapter 12: Overcoming Data Quirks to Design Trading Strategies
+An Analyst must study the price performance of a specific stock receives an error due to missing data. You notice that on June 6th, 1998, from 11:25am through 2:30pm, no trading had occurred during that period. What must you do to resolve the error and capture data for that entire day?
+A) Remove that day of trading from your analysis due to incomplete data.
+B) Insert zeros in place where the missing data occurred for that time period.
+C) Use the data taken from the last traded value which would most likely have occurred at 11:24am to fill in that period.
+D) Scrub that sample data to only include companies with a complete trading period.
+The correct answer is C. A common approach to treat missing data under this circumstance is to fill forward by using the last traded value just prior to lapse in trading and fill in the missing data with that value.
+Chapter 12: Overcoming Data Quirks to Design Trading Strategies
+Assuming a company's price per share has reached a very high amount, such that it may be unattractive to
+investors with lower buying power, what could that company do to correct for this without harming current
+shareholders?
+A) Issue new shares at a lower cost
+B) Implement dividends / increase dividend payouts
+C) Split stocks
+D) Change the ratio of common stock to preferred stock
+Answer: C) Split stocks.  Stock price falls per share, for instance by half, but current shareholders need
+not to worry because they also get issued more shares to retain the same value they held originally.  
+Chapter 12: Overcoming Data Quirks to Design Trading Strategies
+Assuming a company's price per share has reached a very high amount, such that it may be unattractive to
+investors with lower buying power, what could that company do to correct for this without harming current
+shareholders?
+A) Issue new shares at a lower cost
+B) Implement dividends / increase dividend payouts
+C) Split stocks
+D) Change the ratio of common stock to preferred stock
+Answer: C) Split stocks.  Stock price falls per share, for instance by half, but current shareholders need
+not to worry because they also get issued more shares to retain the same value they held originally.  
+Chapter 12: Overcoming Data Quirks to Design Trading Strategies
+XYZ Corp. declared a 2:1 stock split in November 2010. Its non-adjusted prices were as follows:
+Jan. 2, 2010:        $100
+Dec. 31, 2010:        $250
+Assuming there are no other relevant factors, what is the adjusted stock price of XYZ as of 12/31/2010?
+A) $125
+B) $100
+C) $250
+D) $200
+Correct answer is C. The adjusted prices before the split would be halved, so the adjusted price on 1/2/10 would be $50. The prices after the split are not changed.
+Chapter 12: Overcoming Data Quirks to Design Trading Strategies
+Why should we use adjusted price vs actual price for backtesting?
+A) Naive use of stock price data as reported by financial services (actual price data) can be misleading
+B) Stock prices can change for reasons related not related to market supply and demand like splits and mergers, dividends
+C) Use of adjusted price streamlines backtesting by removing the complexity of manipulating data.
+D) All of the above
+Answer: D) All of the above.
+Explanation:
+A: Actual price data does not take into account non market factors
+B: Splits, mergers and dividends cause the actual price to fluctuate
+C: Manipulating actual price for backtesting would require knowledge of a database with information about stock splits, dividends etc. and that would require accounting for adding to complexity
+D: All the above reasons are valid for the use for adjusted price vs actual price for backtesting
+Chapter 12: Overcoming Data Quirks to Design Trading Strategies
+A company announces an increase in its payout ratio. What do you expect to happen?
+a) The next dividend payment will be increased for subsidiaries.
+b) The portion of the company's annual earnings going to dividends will increase.
+c) The number of dividend payouts will increase per year.
+d) The number of dividend payouts will decrease per year.
+Correct answer is b) because the payout ratio indicates the proportion of money returned to stockholders from a company's annual earnings.
+Chapter 12: Overcoming Data Quirks to Design Trading Strategies
+Why might a company's board of directory elect to split the company's stock?
+a) To improve the appearance of the company's past performance.
+b) The company needs to be divided into smaller, more manageable entities.
+c) To raise additional capital by doubling the number of shares outstanding.
+d) The stock's price has made it too expensive for some groups of investors.
+Correct answer is d) Splitting stock does not give a company additional shares to sell or change the company's organization.  It will make a company's actual performance look worse and will have no effect on adjusted performance. From the book, "Company boards of directors occasionally believe that thir stock's price has made it too expenseive for some groups of investors."
+Chapter 12: Overcoming Data Quirks to Design Trading Strategies
+Below is a company's stock price over 5 days. The letters 'E' and 'F' represent missing values.
+Day        Value
+1        E
+2        17        
+3        18
+4        F
+5        22
+What values should 'E' and 'F' be filled-in with? The first value is 'E', and the second 'F'.
+SELECT ONE ANSWER:
+a) 16, 18
+b) 16, 20
+c) 17, 18
+d) 17, 20
+CORRECT ANSWER:
+c
+EXPLANATION:
+'E' is solved for using fill-backward as fill-forward isn't an option,
+so we take the first known value which is 17. 'F' is solved for using fill-forward,
+so we take the last known value which is 18.
+Chapter 12: Overcoming Data Quirks to Design Trading Strategies
+Assume there exists an imaginary stock, XYZ, that (for whatever reason) only changes price when it splits (it is not affected by the normal day-to-day supply/demand pressures of the market).  The stock had 2-for-one splits in 2002 and 1996, and a 3-for-1 split in 1990.  The price of the stock in 2016 is $12.05
+What was the [actual] price of the stock in 1989?
+a) $4.05
+b) $144.60
+c) $48.20
+d) $72.30
+answer: B
+explanation:  the price only changes when it splits, so you have to backtrack, multiplying the current stock price as you go:  $12.05 * 2(2002 split) *2(1996 split) * 3(1990 split) = $144.60
+Chapter 12: Overcoming Data Quirks to Design Trading Strategies
+How can shareholders earn income from stocks without selling them?
+A) Splits
+B) Reverse splits
+C) Dividends
+D) Fill Forward
+Correct answer is C) Dividends
+Shareholders can earn income from stocks without selling them if the company board of directors declares a dividend.
+Chapter 12: Overcoming Data Quirks to Design Trading Strategies
+A stock price is set to $20 before a 1 for 2  _A_ and after this the stock price is $40. The stock price doubled due to 2 shares being reduced into 1. What is the term associated with _A_?
+a)        Dividend
+b)        Forward Fill
+c)        Backward Fill
+d)        Reverse Split
+Correct answer: d) Reverse Split because the amount of shares in the company are reduced and there is an increase in the price per share.
+Chapter 12: Overcoming Data Quirks to Design Trading Strategies
+When a company pays a dividend to shareholders, what is the effect of the dividend on the assets of the company?
+a) The assets of the company are increased.
+b) The assets of the company are reduced.
+c) The assets of the company do not change.
+d) The change in the assets depends on whether the value of the company has increased or decreased during the period for which the dividends were paid.
+Correct answer is b) The assets of the company are reduced.
+Chapter 12: Overcoming Data Quirks to Design Trading Strategies
+Suppose that George owns 100 shares of Apple worth $500 dollars per share.  
+Which of the following would be true if Apple underwent a 4 for 1 stock split:
+a)George now owns 400 shares worth $500 dollars per share.
+b)George now owns 25 shares worth $2,000 dollars per share.
+c)George now owns 100 shares worth $500 dollars per share.
+d)George now owns 400 shares worth $125 dollars per share.
+Chapter 12: Overcoming Data Quirks to Design Trading Strategies
+A stock has a starting value of $100 per share when you buy 10 shares.
+The stock goes through a 2 for 1 split, and you buy 10 more shares at the new price point.
+How many shares do you own at this point, and how much is your position in this stock worth?
+a) 20 shares, $1000
+b) 10 shares, $1200
+c) 30 shares, $1500
+d) 30 shares, $2000
+ 
+Correct answer is c) - At the initial state you buy 10 shares at $100 each = $1000 dollars.
+The stock splits evenly, leaving you with 20 shares at $50 each still totaling $1000.
+You then buy 10 more shares at the new split price of $50 each leaving you with 30 shares and $1500 total in this stock.
+----------------------------------------------------------
+Chapter 8
+What does it mean that a market is "efficient"?
+a) It generates the maximum return on investment for all portfolios.
+b) Information that can affect prices travels quickly through it.
+c) All the orders are immediatly processed as soon as they get to the exchange.
+d) Future prices can be accurately predicted using historical prices.
+Correct answer is b) according to the book: "In this context, efficiency means that information that can affect prices travels quickly through a market" (Chapter 8).
+----------------------------------------------------------
+Chapter 8
+If weak form of the Efficient Market Hypothesis is true, which of the following is correct?
+a) Using market histories from Google or Yahoo are not the best indicators which way a stock's future price will move.
+b) Using fundamental or technical analysis is the best way to evaluate a stock's movement.
+c) Stock prices exhibit trends that can be easily discovered by such techniques as momentum.
+d) Stock prices reflect all information available both public and private.
+Correct answer is A.  Future asset pricing cannot be predicted using historical price and volume data.
+----------------------------------------------------------
+Chapter 8
+Question: As a skilled individual investor, with no insider information, and investing in a very efficient market, which of the following scenarios should you hope for:
+A) You subscribe to the "weak form" of EMH, and do technical and fundamental analysis in order to best determine which companies to take a position in.
+B) You subscribe to the "weak form" of EMH, and utilize your unique knowlege of certain product segments to take positions in companies that you feel have higher intrinsic value than the market currently reflects.
+C) You subscribe to the "semi-strong form" of EMH, and look for financial disclosures which may help you identify value arbitrage positions.
+D) You subscribe to the "strong form" of EMH, and start making connections to colleagues in other companies so you can get insider information.
+Correct choice: B
+Reason: A, C, and D all describe the exact opposite of what strategy you would want to adopt if you subscribed to the given version of the EMH. B has a strategy that is consistent with what you should do if you believe in the weak form of EMH.
+Chapter 8
+# MY GROUP TOPIC: "ZINC: Chapter 8: The Efficient Market Hypothesis (EMH)-Its
+Three Versions"
+QUESTION: Which of the following statements best describe the three versions of
+the Efficient Market Hypothesis (EMH)?
+CHOOSE ONE ANSWER:
+A) The stronger versions of the EMH are more likely to apply
+to the largest, most transparent & liquid markets, where inefficiencies are
+quickly arbitraged away by both market information outsiders and insiders,
+while the weaker versions are more likely to apply to less developed, illiquid,
+opaque, niche & "frontier" markets.
+B) The stronger versions of the EMH are more likely to apply in the
+niche/frontier markets, where experts and niche specialists have already
+arbitraged away the inefficiencies in those special markets where they have the
+best knowledge.
+C) Both the stronger and weaker versions of the EMH have been disproven in the
+real world; none of them actually apply when trading in real-world markets.
+D) All three versions of the EMH are really all stating the same thing in
+different terms; none is really "stronger" or "weaker" than the other.
+CORRECT ANSWER: (A)
+(A) is the correct answer, as it explains that in the bigger, more developed
+markets, there are fewer opportunities for inefficiencies to persist over long
+periods, as both insiders & outsiders will identify and exploit arbitrage
+opportunities, causing market inefficiencies to disappear very quickly.
+INCORRECT ANSWERS:
+(B) is not correct, as it essentially states the opposite of (A).
+(C) is not correct, as while there has been some conflicting empirical
+evidence, there is no clear and consistent agreement of the disproof of the
+EMH. In fact, some such as Burton Malkiel argue in favor of the existence of the
+EMH in various markets.
+D) is not correct, as the strong, semi-strong and weak hypotheses all argue
+essentially different levels of efficiency exist, based on the level of
+information available to traders.  They are not all the same hypothesis.
+Chapter 8
+Which type of analysis does the Weak form of the EMH prohibits from profiting:
+a) Technical Analysis
+b) Fundamental Analysis
+c) Insider Analysis
+d) Sentiment Analysis
+Correct answer is a) because the Weak form says that you cannot predict prices based on historic prices, but it doesn't say anything about Fundamental or Insider Analysis
+Chapter 8
+Assume you have just inherited $400,000.  Being the young, savvy investor you are, with a fresh understanding of the Efficient Market Hypothesis, you are looking for a low volatility vehicle in which to invest these funds with the goal of mitigating inflation and letting the principal grow.
+You have the following choices:
+Hedge Fund: Alpha of 8%
+Mutual Fund: Alpha of 9.5%
+Index Fund
+Other information
+S&P 500: 6%
+Which one do you choose?
+A. Hedge Fund
+B. Mutual Fund
+C. Index Fund
+D. Mattress
+Correct answer: C, Index Fund.  Under the EMH, no investment strategy can consistently beat the market(s).  Therefore, given the transaction costs associated with choices A & B, choice C is the best option.  Choice D is a valid option, but does not meet your criteria for ensuring a hedge against inflation
+Chapter 8
+Which of the following statements is incorrect regarding the three versions of Efficient Market Hypothesis (EMH)?
+a) The weak form of the EMH suggests that future asset prices cannot be predicted based on historical price data alone. However profiting from fundamental analysis is possible.
+b) The strong form of the EMH suggests that only investors with insider information can exploit arbitrage opportunities.
+c) The semi-strong form of the EMH suggests that fundamental and technical analysis are of little use because opportunities have been arbitraged away immediately.
+d) The strong form of the EMH suggests that no known arbitrage opportunities exist.
+The correct answer is b)
+The book said that
+"If the strong form is correct, even those who trade on inside information cannot succeed: they are risking jail to little gain"
+There are multiple plausible answers
+If the student is not well informed, the choices all seem pretty reasonable
+The questions is easy if the student has studied the book and hard if they have not
+There is only one correct answer.
+The question is not too hard nor too easy.
+Chapter 8
+Which of the following statements is true with respect to the form of Efficient Market Hypothesis(EMH)?
+a)The weak form of an EMH cannot be used to predict future asset prices.
+b)If the semi-strong form of EMH is correct, technical analysis and fundamental analysis can help investing strategies succeed.
+c)If the semi-strong form of EMH is correct, value arbitrage opportunities exist.
+d)If strong form is correct, traders on inside information succeed very easily.
+Correct Answer is a) because future asset prices cannot be predicted using historical price and volume data. Semi-strong forms do not have arbitrage opportunities and technical and fundamental analysis does not help in that case. Even if strong form is correct, those who have inside information cannot succeed.
+Chapter 8
+If stocks with lower P/E ratio consistently outperforms those with higher P/E ratio, which form of markets is most possible for this phenonmenon?
+a) Weak.
+b) Semi-strong.
+c) Strong.
+d) None above. Stocks with lower P/E ratio should always underperform those with higher P/E ratio.
+Correct answer is a) because low P/E ratio correspond with higher return, it is one of the fundamental methods, which is profitable under weak form of EMH.
+Chapter 8
+Which form of EMH describes the following statement?
+The current market stock price reflects all public and private information related to
+the stock immediately.
+a)weak form EMH
+b)strong form EMH
+c)semi-strong form EMH
+d)both b) and c)
+answer: b)
+explanation: the strong form EMH says that asset prices adjust immediately to
+reflect all relevant information, including that available to insiders.
+Chapter 8
+The EMH is true because:
+a) hedge funds and active management cannot succeed
+b) based on extensive research by finance and economic academics
+c) active managers are incentivized to make markets efficient by aribtraging opportunities away
+d) they charge high fees to find markets
+The answer is c) because hedge funds compete with other managers to identify opportunities to arbitrage.  These participants are compensated based on their performance to do so which in turn, makes the market efficient by pricing in the availability of all relevant information.
+The following can explain what makes a market strongly efficient EXCEPT:
+a) The existence of liquid, niche markets
+b) The existence of many arbitrage opportunities ***
+c) Adjustment of asset prices near real-time reflecting all public AND relevant insider information
+d) The active participation of many investors including hedge funds and institutional investors
+The answer is b) because arbitrage opportunities in a truly efficient market all all arbitraged away and therefore do not exist
+Chapter 8
+Which version of EMH (Efficient Market Hypothesis) gives the least advantage to investors with insider information?
+a) Weak form
+b) Semi-weak form
+c) Strong form
+d) Semi-strong from
+Correct Answer is c. For strong form of EMH, asset prices adjust immediately to reflect all relevant information, including insider information. Therefore, insider information least advantageous.
+Chapter 8
+Question:
+Under the WEAK FORM version of the Efficient Market Hypothesis (EMH), which one of the answers related to trading strategies are NOT true:
+Answer Choices:
+a) Data available on google finance or yahoo finance will not likely succeed in predicting future asset prices that will beat the market
+b) Fundamental analysis or book value ‚Äî not based historical price and trading volume data ‚Äî may succeed as trading strategy
+c) Asset pricing will adjust immediately to all publicly and privately available information, insider information will not add value here
+d) Disclosures requirements by laws and regulations increase efficiency of the market
+Answer: c)
+Explanation: Weak form version of EMH states that publicly available information from value and historical data will not help predict asset prices to beat the market. Technical  Answer c) is not correct because it describes strong form version of EMH, where any information - private or public - will be taken into account by a highly efficient market.
+Chapter 8
+Which form of the EMH prohibit profiting from Fundamental Analysis?
+a. weak
+b. semi-strong & weak
+c. strong
+d. strong & semi-strong
+ans: d) strong prohibits insider & fundamental, and semi-strong prohibits technical & fundamental analysis
+Which is true of the Weak form of the Efficient Market Hypothesis (EMH)?
+a. All information in a market is not accounted for in the stock price.
+b. Technical analysis cannot be used to predict a stock price.
+c. Only insider can can consistently profit in the market.
+d. Stock prices adjust quickly to new private information.
+ans: b, using public information you cannot predict future prices from past prices.
+Chapter 8
+Given a market for which the semi-strong version of the EMH is valid, which of the following types of information (if any) can be exploited by investors in order to outperform the market?
+        1) Technical
+        2) Fundamental
+        3) Insider
+a) 1, 2, 3
+b) 2, 3
+c) 3
+d) None of These
+Correct answer:  C
+Rationale:  In the semi-strong form of the EMH prices adjust rapidly to new public information.  This includes historical price data, quarterly reports, and any other publicly available information.  Therefore, analysis of technical and fundamental data cannot be used to outperform the market.  However, the semi-strong form of the EMH does allow for insider information, thus it can be used to outperform the market.
+Chapter 8
+Chad works closely with the exectutive team at company A and has access to their workspaces.  
+He reads a memo accidentally left on the CEO's desk stating company B is planning to aquire
+company A at a substantial increase to the current price per share.  This info won't be release
+to the public until the next week.  According to the EMH, what is the only form of the efficient
+market where Chad could NOT exploit this information for personal gain.
+Select one answer:
+a) weak form
+b) semi-strong form
+c) strong form
+d) sharpe ratio form
+Correct answer: c  
+The strong form efficient market is the only form where the markets adjust immediately to reflect
+all relevant information, including that available to insiders.
+Chapter 8
+Which of the following analyses would be considered unsuccessful by ALL forms of the efficient markets hypothesis?
+a) Technical
+b) Fundamental
+c) Insider
+d) None of the above
+Correct answer is a).  Weak EMH prohibits technical analysis; semi-strong EMH prohibits technical and fundamental analysis; and strong EMH prohibits technical, fundamental, and insider analysis. Technical analysis is common to all three, thus a) is the correct answer.
+Chapter 8
+The Efficient Market Hypothesis states which of the following:
+a) Orders to buy and sell assets will be completed in a timely manner.
+b) Future asset prices cannot be predicted using historical price and volume data.
+c) Across different asset classes it is virtualy imposible to increase return without also increasing risk.
+d) Combining assets with negative correlations but similar returns can lower risk without sacrificing return.
+Answer: B
+Explanation:
+The weak-form of the EMH states "Future asset prices cannot be predicted using historical price and volume data", from "What Hedge Funds Really Do, chapter 8"
+Chapter 8
+Which of the following are assumptions in the Efficient Markets Hypothesis?
+ 1) Large number of investors operating for profit
+ 2) New information arrives randomly
+ 3) Prices adjust quickly
+ 4) Prices reflect all available information
+a) 2,3,4
+b) 1,3,4
+c) 1,2,4
+d) 1,2,3,4
+correct answer is d since all are assumptions as explained in the 2nd section of lecture.  The large number of investors quickly react to any random new information and thus prices adjust quickly.  Since new information is consumed and prices quickly adjusted, the current price always reflects available information.
+Chapter 8
+Question:
+re: Chapter 8: The Efficient Market Hypothesis (EMH)-Its Three Versions
+The EMH has three forms,
+Weak EMH - Asset prices cannot be predicted using historical data.
+Semi-strong EMH - Asset prices adjust immediately to all publicly available data.
+Strong EMH - Asset prices adjust immediately to reflect all relevant (including insider) information.
+Debates exist over EMH.  Academic studies have supportef validity of EMH,
+although different forms (Weak, Semi-Strong, Strong) apply to different markets.
+Which of the following choices is least supported by the arguments from Romero,Balch?
+A. When EMH applies, Hedge Funds and Active management cannot succeed.
+B. When EMH applies, Hedge Funds and active traders who make the market efficient.
+C. High Hedge Fund Fees provide incentive to force greater market efficiency.
+D.Strong EMH applies to large, transparent, liquid markets (e.g. U.S. large cap stocks).
+Answer: A. When EMH applies, Hedge Funds and Active management cannot succeed.
+Proof:
+The answer comes directly from p57 in the section "Debates over the EMH".
+Answer A appears in the first sentence of the second paragraph, but is
+immediaely countered by the statement "Active managers may be precisely
+the agents that make markets efficient."
+And makes the argument using the other four statements as prima-facia
+evidence to support the counter argument.
+Chapter 8
+A CEO of a pharmaceutical company learns that one of his key drugs in clinical trials is about to be approved by the FDA. He quickly calls a friend to have him purchase 10,000 shares of his company's stock before the news is announced. Under which form(s) of the Efficient Markets Hypothesis (EMH) will this investment strategy work?
+a) Weak form
+b) Weak form and Semi-strong form
+c) Strong form
+d) All 3 forms
+Correct answer is b) because only if the strong form is correct does those who trade on insider trading cannot succeed.  Therefore insider trading will work for the weak form and semi-strong form of EMH.
+Chapter 8
+Consider market efficiency and then select the statement that accurately describes what makes a market efficient:
+A)Higher than average trading volume of a stock.
+B)The speed that a stock's price adjusts to company-relevant information.
+C)Lower than average trading volume of a stock.
+D)The speed that a stock's price adjusts to market-wide information.
+Correct answer:  B
+Direct quote from Chapter 8, "What Makes Markets Efficient?" section: An indirect measure
+of market efficiency is the speed with which a stock's price adjusts to company-relevant
+information.
+Chapter 8
+Consider the three forms of the EMH. Imagine Company A is trading at $100 per share. In the quarterly report the company discloses massive losses. The stock price plummets to $90 by the end of trading for the day. After reading the report, if someone is fast enough he or she could short Company A's stock before the price bottoms out it is possible to make a profit. Which  form of the EMH does this scenario seem to most contradict?
+ 
+a) Weak
+b) Semi-Strong
+c) Strong
+d) Both b) and c)
+ 
+The correct answer is d) because both Semi-Strong and Strong versions of the EMH suggest that prices adjust immediately to reflect all information. Logically someone has to initiate the moving and that someone can gain profits before the final "new" value is reached.
+Chapter 8
+How does 'Semi-strong' form of Efficient Market Hypothesis looks like?
+a) Future prices can not be predicted by analyzing historical prices
+b) Prices adjust rapidly to new public information
+c) Future prices can be predicted by analyzing historical prices
+d) Prices adjust rapidly to new private information
+Correct answer is b) Prices adjust rapidly to new public information
+Chapter 8
+Considering the three forms of the Efficient Market Hypothesis (EMH), which form(s) prohibit profiting from insider information analysis?
+a) strong
+b) semi-strong
+c) weak
+d) both b) and c)
+Correct answer is a) because the strong form is the only form that prohibits profiting from insider information analysis.  The semi-strong form prohibits profiting from fundamental and technical analysis and the weak form prohibits profiting from technical analysis.
+Chapter 8
+Which answer best describes the Strong Form of the EMH:
+a) All information in a market is accounted for in the stock price.
+b) Technical analysis cannot be used to predict a stock price.
+c) Only those with inside information can consistently profit in the market.
+d) Stock prices adjust quickly to new public information.
+Correct answer: a. Strong form of EMH encapsulates ALL information (public & private).
+Chapter 8
+Which of the following is not an 'Efficient Market Hypothesis' assumption?
+a) Prices reflect all available information
+b) New information arrives randomly
+c) Future prices cannot be predicted by analyzing historical prices
+d) Prices adjust quickly
+Correct answer is c) because a,b and d are EMH assumptions and c is a description of the weak form of the EMH
+Chapter 8
+Which of the following is an example of using exogenous information to make a trade?
+A) A trader executes a large trade on a company's stock based on technical analysis of the company's most recent price and volume data
+B) An employee of a pharmaceutical company knows the status of a pending drug approval and trades a large amount of company shares based on this insider knowledge
+C) A trader executes a large trade on an airline's stock based on a recent change in the price of oil
+D) A trader executes a large trade on a company's stock based on the company's most recent earnings report
+Correct answer: C. These examples were given in lecture 02-08: The efficient markets hypothesis. The given definition of exogenous data is information about the world that affects the company -- here, the price of oil is external information that affects the price of the airline company.
+Chapter 8
+Fundamental analysis can work to exploit an information advantage if which form(s) of the Efficient Market Hypothesis (EMH) are correct?
+a) Weak form
+b) Semi-strong form
+c) Strong form
+d) both a) and b)
+Correct answer is a) because if the weak form is correct, technical analysis cannot succeed but fundamental analysis can be used to exploit an information advantage. Also, fundamental analysis cannot succeed in the semi-strong and strong forms of the EMF.
+Chapter 8
+There are three versions of Efficient Market Hypothesis (EMH). Please match the version with the correct definition:
+Versions:
+1. Weak Form
+2. Semi-Strong Form
+3. Strong Form
+Definitions:
+I. Asset prices adjust immediately to reflect all relevant information, including that available to insiders.
+II. Future asset prices cannot be predicted using historical price and volume data.
+III. Asset prices adjust immediately to all publicly available information, including that which reflects the company‚Äôs fundamentals.
+Choose one answer with all correct version-definition pairs:
+a) 1-I, 2-III, 3-II
+b) 1-II, 2-III, 3-I
+c) 1-III, 2-II, 3-I
+d) 1-II, 2-I, 3-III
+Answer: b
+Explanation:
+Taken from book What Hedge Funds Really Do, Chapter-8, The Efficient Market Hypothesis (EMH)-Its Three Versions:
+Eugene Fama postulated the EMH which has the following three versions -
+1. Weak form: Future asset prices cannot be predicted using historical price and volume data. Such information is widely available from the business press and on investing websites such as Google Finance or Yahoo Finance.
+2. Semi-strong form: Asset prices adjust immediately to all publicly available information, including that which reflects the company‚Äôs fundamentals like financial disclosures.
+3. Strong form: Asset prices adjust immediately to reflect all relevant information, including that available to insiders.
+Chapter 8
+Which of the following features would be least likely to contribute to the establishment of a market operating under the strong form of the Efficient Market Hypothesis?
+a) Extensive regulatory and legal requirements governing the disclosure of financial data
+b) Strict penalties for insider trading
+c) High liquidity
+d) A large number of actively managed investment funds
+Correct answer is b) because stronger prohibition of insider trading should suppress the immediate reaction of asset prices to non-public information, which is what makes the difference between a semi-strong and strong form of the EMH.
+Chapter 8
+What is technical analysis when evaluating a company?
+a) Evaluating a company's stock price based on book value such as total asset, debt, cashflow, etc.
+b) Evaluating a company's stock price based on stock prices of other companies in the same industry.
+c) Evaluating a company's stock price based on historical price and volum.
+d) Evaluating a company's stock price based on business news and insider information.
+Correct answer is c) because technical analysis works with historical price and volumn only.
+Chapter 8
+If the weak form of the EMH(Efficient Market Hypothesis) is correct, which of the following is true?
+a) Technical analysis and fundamental analysis cannot work
+b) No one can succeed including those who trade inside information
+c) Only technical analysis can succeed
+d) Investors who develop independent fundamental estimates of intrinsic value can exploit information advantage
+Correct answer is d) because technical analysis using only historical price and volume data cannot succeed, but investors who develop other relevant information like independent intrinsic value estimates can have and exploit information advantage. a) is true for semi-strong form while b) is true for strong form.
+Chapter 8
+Which is NOT an assumption of the Efficient Market Hypothesis?
+a) Prices adjust randomly.
+b) Large number of investors
+c) Prices reflect only some of the available information.
+d) New information arrives randomly.
+Correct answer is c) because the current price must reflect all of information. If it did not, certain investors could exploit the information asymmetry, making the market inefficient.
+Chapter 8
+Is a market exhibiting the strong form definition of Efficient Market Hypothesis (EMH) likely to have lower volatility compared to market exhibiting the weak form definition of EMH? Assume the markets are otherwise identical and trade the same assets.
+a) Strong form definition is likely to lead to higher volatility
+b) Strong form definition is likely to lead to lower volatility
+c) Both definitions will likely lead to the same volatility
+d) The EMH definition is likely have a random impact on volatility
+Correct answer is b). Strong form results in faster propagation of small pieces of information allowing prices to adjust continuously. Weak form leads to large earnings surprises and therefore larger price swings.
+Chapter 8
+Under the semi-strong version of the efficient market hypothesis, which of the following pieces of information about a company's stock are not already reflected in it's price?
+a) P/E ratio relative to industry peers.
+b) A press release announcing a merger.
+c) An obscure research paper that forecasts the demand for raw materials in Mongolia, a country that the company has no operations in.
+d) None of the above; i.e. a) b) and c) are all incorporated in the stock's price
+The correct response is d). In the semi-strong form, only insider information is not already incorporated in the price. Some might answer c) as the information is obscure and unrelated to the company. However, it is still public knowledge and would be reflected in the stock's price.
+Chapter 8
+If the semi-strong form of the EMH is correct, then:
+a) both technical analysis and fundamental analysis work
+b) technical analysis works and fundamental analysis does NOT work
+c) technical analysis does NOT work and fundamental analysis works
+d) both technical analysis and fundamental analysis do NOT work
+Correct answer is d) because the text book says "If the semi-strong form is correct, technical analysis and fundamental analysis cannot work"
+Chapter 8
+Q.  Which of the following is not true?
+a)There are three versions of EMH
+b)Semi-strong form of EMH means that insider information cannot be used to predict the market
+c)Weak form of the EMH indicates that correct, technical analysis using historical data cannot predict the market
+d)Very few managers outperform market indices in large liquid and transparent markets
+A. b) is the answer as it is not true. Only in the strong form of EMH does a trader have little to gain from insider trading as the hypothesis is that prices adjust to all information including insiders.
+Chapter 8
+Which option is a correct assumption of Efficient market hypothesis?
+A. Small number of investors interacting in the market for profit
+B. New information arrives consistently
+C. Prices adjust quickly
+D. Previous prices reflect all available information
+Answer is C. Prices adjust quickly
+Chapter 8
+which one is correct about the analysis approach?
+The _____ approach is when analysts compare stock performance against other stock in the market or industry.
+a. technical analysis
+b. fundamental
+c. relative strength
+d. CAPM
+Correct answer is c. The relative strength approach is when analysts compare stock performance against other stock in the market or industry.
+a. The technical analysis is the study of collective maket sentiment , as expressed by buying and selling of assests.
+b.The fundamental analysis uses earnings and dividend information, future interest rates, and risk evaluations to determine stable prices.
+d. CAPM is The capital asset pricing model which is a model that describes the relationship between risk and expected return and that is used in the pricing of risky securities.
+Chapter 8
+Which statement is consistent with three versions of the Efficient Market Hypothesis (EMH)?
+a) If the weak form of the EMH is correct, only those who trade on inside information can succeed.
+b) If the strong form of the EMH is correct, those who trade on inside information can succeed.
+c) If the semi-strong form of the EMH is correct, value investors can succeed as value arbitrage opportunities exist.
+d) If the weak form of the EMH is correct, investors who use fundamental analysis might succeed.
+Correct answer is d) because if the weak form of the EMH is correct, investors who can develop other relevant information (such as independent fundamental estimates of intrinsic value) can have and exploit an information advantage.
+Chapter 8
+There are three versions of the efficient market hypothesis (EMH). Which one is TRUE among the following statements?  
+A). If the weak form of EMH is right, the fundamental analysis cannot succeed.
+B) If the semi-weak form of EMH is right, the technical analysis cannot succeed.
+C) If the semi-strong form of EMH is right, the trader with inside information can succeed.
+D) If the strong form of EMH is right, the trader with inside information can succeed.
+Answer (C) Explanation: C is right because the semi-strong form of EMH prohibits FA and TA but not the inside information. A is wrong because the weak form prohibit TA not FA. B is wrong because semi-weak form is not one of the three versions of EMH. D is wrong because even inside information cannot succeed.
+Chapter 8
+If in the current market you discover you can predict the future stock price and earn profits using inside or private information, which of the following statements about the efficient market hypothesis (EMH) is supported by your discovery for the current market?
+a) The weak form version of EMH is invalid.
+b) The strong-form version of EMH is valid
+c) The semi-strong form version of EMH is invalid
+d) The strong-form version of EMH is invalid.
+Correct answer is d) because the strong-form version of the efficient market hypothesis states that all information ®C both the information available to the public and not publicly known ®C is completely accounted for in current stock prices, and there is no type of information that can give an investor an advantage on the market. Strong-form efficient market hypothesis suggests that investors cannot make returns on investments that exceed normal market returns, regardless of information retrieved or research conducted. Thus, if investors can predict the future stock price and earn profits, the market should not be the strong-form version of EMH.
+It also should be noted that while insiders and specialists do have access to private or unpublic information, the SEC (Securities and Exchange Commission) regulations forbid this information to be used.
+Chapter 8
+Market efficiency tells how fast the relevant information travels throughout the market, and greatly affects the investment decisions. Which of the following is true?
+a) A hedge fund manager would prefer to work in a market with high efficiency, because he can make money more efficiently.
+b) A hedge fund manager would prefer to work in a market with high efficiency, because opportunities come and go fast, one can make profit from these opportunities.
+c) A hedge fund manager would prefer to work in a market with low efficiency, because he can develop relevant information such as independent fundamental estimate of intrinsic value, and have an information advantage.
+d) A hedge fund manager would prefer to work in a market with low efficiency, because he can trade on inside information to make large profit.
+Correct answer is c) because there are less opportunities to make money in a highly efficient market, and insider trading is a crime.
+Chapter 8
+What is not an information advantage when the weak form of EMH (Efficient Market Hypothesis) is correct?
+a) independent fundamental estimates of intrinsic value
+b) technical analysis
+c) lower latency
+d) arbitrage
+Correct answer is b), because definition of weak form of EMH only mentions technical analysis cannot succeed. a) and d) give information advantage. Lower latency is not mentioned.
+Published by Google Drive–Report Abuse–Updated automatically every 5 minutes
